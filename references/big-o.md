@@ -36,7 +36,7 @@
 | Operation | Example | Big-O |
 |:----------|:--------|:------|
 | Length | len(s) | O(1) |
-| Add | s.append(x) | O(1) |
+| Add | s.add(x) | O(1) |
 | Containment | x in s | O(1) |
 | Remove | s.remove() | O(1) |
 | Pop | s.pop() | O(1) |
