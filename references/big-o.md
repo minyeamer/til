@@ -1,11 +1,11 @@
 # Big-O List
-1. List
-2. Set
-3. Dictionary
-4. Sort
-5. Search
-6. Heap
-7. DFS/BFS
+  1. [List](#list)
+  2. [Set](#set)
+  3. [Dictionary](#dictionary)
+  4. [Sort](#sort)
+  5. [Search](#search)
+  6. [Heap](#heap)
+  7. [DFS/BFS](#dfsbfs)
 
 ## List
 
@@ -91,6 +91,6 @@
 | Construction | heapq.heapify(heap) | O(n) |
 
 ## DFS/BFS
-#### N은 노드, E는 간선일 때
+N은 노드, E는 간선일 때
 - 인접 리스트: O(N+E)
 - 인접 행렬: O(N^2)
