@@ -1,9 +1,15 @@
 # Bookmarks
+  - [Interesting](#interesting)
+  - [Insights](#insights)
+  - [Algorithm](#algorithm)
   - [Crawling](#crawling)
   - [Data](#data)
     + [Data Resources](#data-resources)
     + [Data Visualization](#data-visualization)
-    + [Elastic](#elastic)
+    + [Data Tools](#data-tools)
+  - [Framework](#framework)
+    + [Flutter](#flutter)
+    + [Material UI](#material-ui)
   - [IDE](#ide)
     + [fasepages](#fasepages)
     + [Google Colab](#google-colab)
@@ -11,6 +17,8 @@
     + [nteract](#nteract)
     + [Polynote](#polynote)
   - [Language](#language)
+    + [Markdown](#markdown)
+    + [Python](#python)
   - [Libraries](#libraries)
     + [BeautifulSoup](#beautifulsoup)
     + [folium](#folium)
@@ -20,9 +28,8 @@
     + [plotnine](#plotnine)
     + [pytube](#pytube)
   - [Machine Learning](#machine-learning)
-  - [Markdown](#markdown)
   - [Math](#math)
-  - [Python](#python)
+  - [Network](#network)
   - [Skills](#skills)
   - [Web](#web)
 
@@ -38,14 +45,17 @@
 - [velopert/velog](https://github.com/velopert/velog)
 - [abilists.com](https://github.com/abilists)
 - [joyful](https://github.com/joyfuI)
+- [보충제 플랫폼 창업 일기](https://wukbro.tistory.com/)
 
 ---
 ---
 
-## Ideas
+## Insights
 - [bandcamp - Indie Music Platform](https://bandcamp.com/)
 - [SpeciPick - Rental Products](https://specipick.com/)
 - [SPWN - Live Viewing Platform](https://spwn.jp/)
+- [kmong](https://kmong.com/)
+- [큐잉 - 나에게 맞는 보충제 추천](https://cueing.co.kr/)
 
 ---
 ---
@@ -207,6 +217,7 @@
 - [파이썬, 개발속도 20% 높이는 런타임 '피스톤'](https://j.mp/3mQrNSa)
 - [xlsxwriter 튜토리얼로 배우는 Python 엑셀 프로그래밍](https://j.mp/3mBh2UJ)
 - [Python Library 폐쇄망에 설치하기](https://j.mp/3aRvOBy)
+- [xlwings - Python for Excel](https://www.xlwings.org/)
 
 ---
 ---
@@ -312,3 +323,5 @@
 ## Web
 - [HTML/CSS/JS 30분 요약 시리즈](https://bit.ly/3pRoYEC)
 - [HTML & CSS 추가 학습](https://j.mp/2nrX8l1)
+- [CodePen](https://codepen.io/)
+- [Canva](https://www.canva.com/)
