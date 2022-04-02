@@ -46,6 +46,7 @@
 - [abilists.com](https://github.com/abilists)
 - [joyful](https://github.com/joyfuI)
 - [보충제 플랫폼 창업 일기](https://wukbro.tistory.com/)
+- [네이버, 카카오, 엔씨소프트 임원은 연봉을 얼마나 받을까? > levels.fyi](http://channy.creation.net/blog/1551)
 
 ---
 ---
@@ -56,6 +57,7 @@
 - [SPWN - Live Viewing Platform](https://spwn.jp/)
 - [kmong](https://kmong.com/)
 - [큐잉 - 나에게 맞는 보충제 추천](https://cueing.co.kr/)
+- [levels.fyi - 연봉 비교 사이트](https://www.levels.fyi/)
 
 ---
 ---
@@ -286,6 +288,82 @@
 - [From ‘R vs Python’ to ‘R and Python’](https://j.mp/2WIzS0J)
 - [Machine Learning Open Source of the Month](https://goo.gl/FbXHf3)
 - [딥러닝으로 오디오 만나보기](https://j.mp/2XJa1Yo)
+```
+Stanford AI lectures
+
+Deep Learning
+
+[http://web.stanford.edu/class/cs230/](http://web.stanford.edu/class/cs230/)
+
+[ Natural Language Processing ]
+
+CS 124: From Languages to Information (LINGUIST 180, LINGUIST 280)
+
+[http://web.stanford.edu/class/cs124/](http://web.stanford.edu/class/cs124/)
+
+CS 224N: Natural Language Processing with Deep Learning (LINGUIST 284)
+
+[http://web.stanford.edu/class/cs224n/](http://web.stanford.edu/class/cs224n/)
+
+CS 224U: Natural Language Understanding (LINGUIST 188, LINGUIST 288)
+
+[http://web.stanford.edu/class/cs224u/](http://web.stanford.edu/class/cs224u/)
+
+CS 276: Information Retrieval and Web Search (LINGUIST 286)
+
+[http://web.stanford.edu/class/cs](http://web.stanford.edu/class/cs224u/)276
+
+[ Computer Vision ]
+CS 131: Computer Vision: Foundations and Applications
+
+http://[cs131.stanford.edu](http://cs131.stanford.edu/)
+
+CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning
+
+[http://web.stanford.edu/class/cs205l/](http://web.stanford.edu/class/cs205l/)
+
+CS 231N: Convolutional Neural Networks for Visual Recognition
+
+[http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
+
+CS 348K: Visual Computing Systems
+
+[http://graphics.stanford.edu/courses/cs348v-18-winter/](http://graphics.stanford.edu/courses/cs348v-18-winter/)
+
+[ Others ]
+CS 273B: Deep Learning in Genomics and Biomedicine (BIODS 237, BIOMEDIN 273B, GENE 236)
+
+[https://canvas.stanford.edu/courses/51037](https://canvas.stanford.edu/courses/51037)
+
+CS 236: Deep Generative Models
+
+[https://deepgenerativemodels.github.io/](https://deepgenerativemodels.github.io/)
+
+CS 228: Probabilistic Graphical Models: Principles and Techniques
+
+[https://cs228.stanford.edu/](https://cs228.stanford.edu/)
+
+CS 337: Al-Assisted Care (MED 277)
+
+[http://cs337.stanford.edu/](http://cs337.stanford.edu/)
+
+CS 229: Machine Learning (STATS 229)
+
+[http://cs229.stanford.edu/](http://cs229.stanford.edu/)
+
+CS 229A: Applied Machine Learning
+
+[https://cs229a.stanford.edu](https://cs229a.stanford.edu/)
+
+CS 234: Reinforcement Learning
+
+http://[s234.stanford.edu](http://cs234.stanford.edu/)
+
+CS 221: Artificial Intelligence: Principles and Techniques
+
+[https://stanford-cs221.github.io/autumn2019/](https://stanford-cs221.github.io/autumn2019/)
+```
+
 
 ---
 ---
@@ -294,6 +372,8 @@
 - [반응형 푸리에 변환](https://j.mp/2J0yv9A)
 - [벡터가 뭐에요?](https://j.mp/3DvJz5a)
 - [두 개의 vector 사이의 각을 재보자 Cosine Similarity](https://j.mp/2XwLC7v)
+- [Ways to Detect and Remove the Outliers](https://j.mp/2JmPKSN)
+- [Outlier는 모두 제거해야할까?](https://j.mp/35467fq)
 
 ---
 ---
