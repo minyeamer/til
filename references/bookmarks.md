@@ -7,6 +7,7 @@
     + [Data Resources](#data-resources)
     + [Data Visualization](#data-visualization)
     + [Data Tools](#data-tools)
+  - [Database](#database)
   - [Framework](#framework)
     + [Flutter](#flutter)
     + [Material UI](#material-ui)
@@ -131,6 +132,17 @@
 ### Data Tools
 - [한국 Elastic 사용자 그룹](https://www.youtube.com/c/한국Elastic사용자그룹)
 - [로그스태시(LogStash)](https://bit.ly/3IM2Sdc)
+
+---
+---
+
+## Database
+- [DB-Engines Ranking](https://j.mp/3jmqGsz)
+- [Data Warehouse vs Data Lake](http://j.mp/2s6sVdP)
+- [ELT vs ETL](https://j.mp/3huaSDH)
+- [Tidy Data (Original paper by Hadley Wickham)](https://j.mp/3fUMfhV)
+- [Tidy data vs Messy data](https://j.mp/39nDpqp)
+- [깔끔한 데이터(Tidy data)](https://j.mp/3ePYNFP)
 
 ---
 ---
@@ -263,6 +275,8 @@
 - [pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 - [PandasGUI](https://j.mp/3dJW8i4)
 - [Time Series Analysis with Pandas](https://goo.gl/rihZdZ)
+- [pandas groupby() 로 그룹별 집계하기](https://rfriend.tistory.com/383)
+- [Pandas 데이터 분석 groupby 사용 방법 예제](https://ponyozzang.tistory.com/291)
 
 ---
 
