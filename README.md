@@ -3,8 +3,7 @@
   - [ML](#-ml)
   - [NLP](#-nlp)
 
-
-<br>
+---
 
 ## \# Algorithm
 |Col 1|Col 2|Col 3|Col 4|Col 5|Col 6|Col 7|Col 8|
