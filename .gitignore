@@ -1,7 +1,11 @@
+__pycache__/
+
+.ipynb_checkpoints/
+
 .DS_Store
 
+data/
+debug/
+references/
+
 debug.ipynb
-
-input.html
-
-output.html
