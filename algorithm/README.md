@@ -24,6 +24,8 @@
 ## References
 - [Baekjoon](https://www.acmicpc.net/)
 - [solved.ac](https://solved.ac/)
+- [Leetcode](https://leetcode.com/problemset/all/)
+- [Programmers](https://school.programmers.co.kr/learn/challenges)
 
 ---
 
