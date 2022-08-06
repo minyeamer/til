@@ -53,6 +53,10 @@
 - [[Baekjoon 2606] 바이러스 🥈](baekjoon/02_silver/n2606.py)
 - [[Baekjoon 11724] 연결 요소의 개수 🥈](baekjoon/02_silver/n11724.py)
 - [[Programmers 11724] 가장 먼 노드 🥇](programmers/lv3/n49189.py)
+- [[Programmers 43162] 네트워크 🥇](programmers/lv3/n43162.py)
+- [[Programmers 43163] 단어 변환 🥇](programmers/lv3/n43163.py)
+- [[Programmers 1844] 게임 맵 최단거리 🥈](programmers/lv2/n1844.py)
+- [[Programmers 43165] 타겟 넘버 🥈](programmers/lv2/n43165.py)
 
 ---
 
@@ -115,6 +119,8 @@
 - [[Baekjoon 1259] 팰린드롬수 🥉](baekjoon/01_bronze/n1259.py)
 - [[Baekjoon 2920] 음계 🥉](baekjoon/01_bronze/n2920.py)
 - [[Leetcode 1337] The K Weakest Rows in a Matrix 🥉](leetcode/01_easy/n1337.py)
+- [[Programmers 42746] 가장 큰 수 🥈](programmers/lv2/n42746.py)
+- [[Programmers 42747] H-Index 🥈](programmers/lv2/n42747py)
 
 ---
 
