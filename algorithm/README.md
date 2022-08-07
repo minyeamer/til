@@ -17,150 +17,195 @@
 
 ---
 
+<br>
+
 ## References
 |Name|Link|
 |:-:|:-|
-|Baekjoon|[https://www.acmicpc.net/](https://www.acmicpc.net/)|
-|solved.ac|[https://solved.ac/](https://solved.ac/)|
 |Leetcode|[https://leetcode.com/problemset/all/](https://leetcode.com/problemset/all/)|
 |Programmers|[https://school.programmers.co.kr/learn/challenges](https://school.programmers.co.kr/learn/challenges)|
+|Baekjoon|[https://www.acmicpc.net/](https://www.acmicpc.net/)|
+|solved.ac|[https://solved.ac/](https://solved.ac/)|
 
 <!-- Medals  -->
 <!-- 🥇 🥈 🥉 -->
 
 ---
 
+<br>
+
 ## Math
 
-|Reference|Number|Level|Problem Name|Subcategory|Link|Problem Link|
-|:-:|:-:|:-:|:-:|:-:|:-|:-|
-|Programmers|60059|Lv3 🥇|자물쇠와 열쇠|Matrix|[Link](programmers/kakao/lv3/n60059.py)|[Link](https://programmers.co.kr/learn/courses/30/lessons/60059)|
-|Programmers|12977|Lv1 🥉|소수 만들기|Combination|[Link](programmers/lv1/n12977.py)|[Link](https://programmers.co.kr/learn/courses/30/lessons/12977)|
-|Baekjoon|1010|Silver 🥈|다리 놓기|Combination|[Link](baekjoon/02_silver/n1010.py)|[Link](https://www.acmicpc.net/problem/1010)|
-|Baekjoon|1463|Silver 🥈|1로 만들기||[Link](baekjoon/02_silver/n1463.py)|[Link](https://www.acmicpc.net/problem/1463)|
-|Baekjoon|2108|Silver 🥈|통계학||[Link](baekjoon/02_silver/n2108.py)|[Link](https://www.acmicpc.net/problem/2108)|
-|Baekjoon|1049|Silver 🥈|기타줄||[Link](baekjoon/02_silver/n1049.py)|[Link](https://www.acmicpc.net/problem/1049)|
-|Baekjoon|2475|Bronze 🥉|검증수||[Link](baekjoon/01_bronze/n2475.py)|[Link](https://www.acmicpc.net/problem/2475)|
-|Baekjoon|11050|Bronze 🥉|이항 계수 1|Combination|[Link](baekjoon/01_bronze/n11050.py)|[Link](https://www.acmicpc.net/problem/11050)|
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Programmers|60059|Lv3 🥇|자물쇠와 열쇠|Matrix|[Link](https://programmers.co.kr/learn/courses/30/lessons/60059)|[Link](programmers/kakao/lv3/n60059.py)
+|Programmers|12977|Lv1 🥉|소수 만들기|Combination|[Link](https://programmers.co.kr/learn/courses/30/lessons/12977)|[Link](programmers/lv1/n12977.py)
+|Baekjoon|1010|Silver 🥈|다리 놓기|Combination|[Link](https://www.acmicpc.net/problem/1010)|[Link](baekjoon/02_silver/n1010.py)
+|Baekjoon|1463|Silver 🥈|1로 만들기||[Link](https://www.acmicpc.net/problem/1463)|[Link](baekjoon/02_silver/n1463.py)
+|Baekjoon|2108|Silver 🥈|통계학||[Link](https://www.acmicpc.net/problem/2108)|[Link](baekjoon/02_silver/n2108.py)
+|Baekjoon|1049|Silver 🥈|기타줄||[Link](https://www.acmicpc.net/problem/1049)|[Link](baekjoon/02_silver/n1049.py)
+|Baekjoon|2475|Bronze 🥉|검증수||[Link](https://www.acmicpc.net/problem/2475)|[Link](baekjoon/01_bronze/n2475.py)
+|Baekjoon|11050|Bronze 🥉|이항 계수 1|Combination|[Link](https://www.acmicpc.net/problem/11050)|[Link](baekjoon/01_bronze/n11050.py)
 
 ---
 
-|Reference|Number|Level|Problem Name|Subcategory|Link|Problem Link|
-|:-:|:-:|:-:|:-:|:-:|:-|:-|
-||||||||
+<br>
 
 ## String
-- [[Programmers 60057] 문자열 압축 🥈](programmers/kakao/lv2/n60057.py)
-- [[Programmers 72410] 신규 아이디 추천 🥉](programmers/kakao/lv1/n72410.py) - Regular Expression
 
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Programmers|60057|Lv2 🥈|문자열 압축||[Link](https://programmers.co.kr/learn/courses/30/lessons/60057)|[Link](programmers/kakao/lv2/n60057.py)|
+|Programmers|72410|Lv1 🥉|신규 아이디 추천|Regular Expression|[Link](https://programmers.co.kr/learn/courses/30/lessons/72410)|[Link](programmers/kakao/lv1/n72410.py)|
+
+---
+
+<br>
 
 ## Hash Table
-- [[Baekjoon 1620] 나는야 포켓몬 마스터 이다솜 🥈](baekjoon/02_silver/n1620.py) - Dictionary
-- [[Baekjoon 1764] 듣보잡 🥈](baekjoon/02_silver/n1764.py) - Set
-- [[Baekjoon 1920] 수 찾기 🥈](baekjoon/02_silver/n1920.py) - Set
-- [[Baekjoon 10816] 숫자 카드 2 🥈](baekjoon/02_silver/n10816.py) - Counter
-- [[Programmers 42888] 오픈채팅방 🥈](programmers/kakao/lv2/n42888.py)
-- [[Programmers 92334] 신고 결과 받기 🥉](programmers/kakao/lv1/n92334.py) - Dictionary
-- [[Programmers 81301] 숫자 문자열과 영단어 🥉](programmers/kakao/lv1/n81301.py) - Dictionary
 
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Programmers|42888|Lv2 🥈|오픈채팅방||[Link](https://programmers.co.kr/learn/courses/30/lessons/42888)|[Link](programmers/kakao/lv2/n42888.py)|
+|Programmers|92334|Lv1 🥉|신고 결과 받기|Dictionary|[Link](https://programmers.co.kr/learn/courses/30/lessons/92334)|[Link](programmers/kakao/lv1/n92334.py)|
+|Programmers|81303|Lv1 🥉|숫자 문자열과 영단어|Dictionary|[Link](https://programmers.co.kr/learn/courses/30/lessons/81301)|[Link](programmers/kakao/lv1/n81301.py)|
+|Baekjoon|1620|Silver 🥈|나는야 포켓몬 마스터 이다솜|Dictionary|[Link](https://www.acmicpc.net/problem/1620)|[Link](baekjoon/02_silver/n1620.py)|
+|Baekjoon|1764|Silver 🥈|듣보잡|Set|[Link](https://www.acmicpc.net/problem/1764)|[Link](baekjoon/02_silver/n1764.py)|
+|Baekjoon|1920|Silver 🥈|수 찾기|Set|[Link](https://www.acmicpc.net/problem/1920)|[Link](baekjoon/02_silver/n1920.py)|
+|Baekjoon|10816|Silver 🥈|숫자 카드 2|Counter|[Link](https://www.acmicpc.net/problem/10816)|[Link](baekjoon/02_silver/n10816.py)|
 
+---
 
+<br>
+
+## Stack/Queue
+
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Baekjoon|1874|Silver 🥈|스택 수열|Stack|[Link](https://www.acmicpc.net/problem/1874)|[Link](baekjoon/02_silver/n1874.py)
+|Baekjoon|1966|Silver 🥈|프린터 큐|Deque|[Link](https://www.acmicpc.net/problem/1966)|[Link](baekjoon/02_silver/n1966.py)
+|Baekjoon|4949|Silver 🥈|균형잡힌 세상|Stack|[Link](https://www.acmicpc.net/problem/4949)|[Link](baekjoon/02_silver/n4949.py)
 
 ---
 
-## Binary Search
-- [[Baekjoon 1654] 랜선 자르기 🥈](baekjoon/02_silver/n1654.py)
-- [[Baekjoon 2805] 나무 자르기 🥈](baekjoon/02_silver/n2805.py)
+<br>
+
+## Heap
+
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Baekjoon|7662|Gold 🥇|이중 우선순위 큐|Guidance|[Link](https://www.acmicpc.net/problem/7662)|[Link](baekjoon/03_gold/n7662.py)
 
 ---
+
+<br>
+
+## Sorting
+
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Leetcode|1337|Easy 🥉|The K Weakest Rows in a Matrix||[Link](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Link](leetcode/01_easy/n1337.py)
+|Programmers|42746|Lv2 🥈|가장 큰 수||[Link](https://programmers.co.kr/learn/courses/30/lessons/42746)|[Link](programmers/lv2/n42746.py)
+|Programmers|42747|Lv2 🥈|H-Index||[Link](https://programmers.co.kr/learn/courses/30/lessons/)|[Link](programmers/lv2/n42747.py)
+|Baekjoon|1181|Silver 🥈|단어 정렬||[Link](https://www.acmicpc.net/problem/1431)|[Link](baekjoon/02_silver/n1431.py)
+|Baekjoon|1431|Silver 🥈|시리얼 번호||[Link](https://www.acmicpc.net/problem/1431)|[Link](baekjoon/02_silver/n1431.py)
+|Baekjoon|10816|Silver 🥈|숫자 카드 2||[Link](https://www.acmicpc.net/problem/10816)|[Link](baekjoon/02_silver/n10816.py)
+|Baekjoon|1259|Bronze 🥉|팰린드롬수||[Link](https://www.acmicpc.net/problem/1259)|[Link](baekjoon/01_bronze/n1259.py)
+|Baekjoon|2920|Bronze 🥉|음계||[Link](https://www.acmicpc.net/problem/2920)|[Link](baekjoon/01_bronze/n2920.py)
+
+---
+
+<br>
 
 ## Brute Force
-- [[Baekjoon 1107] 리모컨 🥇](baekjoon/03_gold/n1107.py)
-- [[Baekjoon 18111] 마인크래프트 🥈](baekjoon/02_silver/n18111.py)
+
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Baekjoon|1107|Gold 🥇|리모컨||[Link](https://www.acmicpc.net/problem/1107)|[Link](baekjoon/03_gold/n1107.py)
+|Baekjoon|18111|Silver 🥈|마인크래프트||[Link](https://www.acmicpc.net/problem/18111)|[Link](baekjoon/02_silver/n18111.py)
 
 ---
 
-## Cumulative Sum
-- [[Programmers 92344] 파괴되지 않은 건물 🥇](programmers/kakao/lv3/n92344.py)
-
----
-
-## DFS/BFS
-- [[Baekjoon 1260] DFS와 BFS 🥈](baekjoon/02_silver/n1260.py) - Guidance
-- [[Baekjoon 1012] 유기농 배추 🥈](baekjoon/02_silver/n1012.py)
-- [[Baekjoon 2606] 바이러스 🥈](baekjoon/02_silver/n2606.py)
-- [[Baekjoon 11724] 연결 요소의 개수 🥈](baekjoon/02_silver/n11724.py)
-- [[Programmers 11724] 가장 먼 노드 🥇](programmers/lv3/n49189.py)
-- [[Programmers 43162] 네트워크 🥇](programmers/lv3/n43162.py)
-- [[Programmers 43163] 단어 변환 🥇](programmers/lv3/n43163.py)
-- [[Programmers 1844] 게임 맵 최단거리 🥈](programmers/lv2/n1844.py)
-- [[Programmers 43165] 타겟 넘버 🥈](programmers/lv2/n43165.py)
-
----
-
-## Dynamic Programming
-- [[Programmers 43105] 정수 삼각형 🥇](programmers/lv3/n43105.py)
-
----
-
-## Graph
-- [[Baekjoon 1197] 최소 스패닝 트리 🥇](baekjoon/03_gold/n1197.py) - Prim's algorithm
-
----
+<br>
 
 ## Greedy
-- [[Baekjoon 1049] 기타줄 🥈](baekjoon/02_silver/n1049.py)
-- [[Baekjoon 1105] 팔 🥈](baekjoon/02_silver/n1105.py)
-- [[Baekjoon 11399] ATM 🥈](baekjoon/02_silver/n11399.py)
-- [[Programmers 62048] 멀쩡한 사각형 🥈](programmers/lv2/n62048.py)
+
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Programmers|62048|Lv2 🥈|멀쩡한 사각형||[Link](https://programmers.co.kr/learn/courses/30/lessons/62048)|[Link](programmers/lv2/n62048.py)
+|Baekjoon|1049|Silver 🥈|기타줄||[Link](https://www.acmicpc.net/problem/1049)|[Link](baekjoon/02_silver/n1049.py)
+|Baekjoon|1105|Silver 🥈|팔||[Link](https://www.acmicpc.net/problem/1105)|[Link](baekjoon/02_silver/n1105.py)
+|Baekjoon|11399|Silver 🥈|ATM||[Link](https://www.acmicpc.net/problem/11399)|[Link](baekjoon/02_silver/n11399.py)
 
 ---
 
+<br>
+
+## Dynamic Programming
+
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Programmers|43105|Lv3 🥇|정수 삼각형||[Link](https://programmers.co.kr/learn/courses/30/lessons/43105)|[Link](programmers/lv3/n43105.py)
+|Baekjoon|1003|Silver 🥈|피보나치 함수||[Link](https://www.acmicpc.net/problem/1003)|[Link](baekjoon/02_silver/n1003.py)
 
 ---
 
+<br>
 
+## DFS/BFS
 
----
-
-## Queue
-- [[Baekjoon 1966] 프린터 큐 🥈](baekjoon/02_silver/n1966.py) - Deque
-
----
-
-## Recursion
-- [[Baekjoon 1003] 피보나치 함수 🥈](baekjoon/02_silver/n1003.py)
-- [[Baekjoon 1074] Z 🥈](baekjoon/02_silver/n1074.py)
-
----
-
-## Sort
-- [[Baekjoon 1181] 단어 정렬 🥈](baekjoon/02_silver/n1181.py)
-- [[Baekjoon 1431] 시리얼 번호 🥈](baekjoon/02_silver/n1431.py)
-- [[Baekjoon 10816] 숫자 카드 2 🥈](baekjoon/02_silver/n10816.py)
-- [[Baekjoon 1259] 팰린드롬수 🥉](baekjoon/01_bronze/n1259.py)
-- [[Baekjoon 2920] 음계 🥉](baekjoon/01_bronze/n2920.py)
-- [[Leetcode 1337] The K Weakest Rows in a Matrix 🥉](leetcode/01_easy/n1337.py)
-- [[Programmers 42746] 가장 큰 수 🥈](programmers/lv2/n42746.py)
-- [[Programmers 42747] H-Index 🥈](programmers/lv2/n42747py)
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Programmers|43162|Lv3 🥇|네트워크|DFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/43162)|[Link](programmers/lv3/n43162.py)
+|Programmers|43163|Lv3 🥇|단어 변환|BFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/43163)|[Link](programmers/lv3/n43163.py)
+|Programmers|49189|Lv3 🥇|가장 먼 노드|BFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/49189)|[Link](programmers/lv3/n49189.py)
+|Programmers|1844|Lv2 🥈|게임 맵 최단거리|BFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/)|[Link](programmers/lv2/n1844.py)
+|Programmers|43165|Lv2 🥈|타겟 넘버|DFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/43165)|[Link](programmers/lv2/n43165.py)
+|Baekjoon|1260|Silver 🥈|DFS와 BFS|Guidance|[Link](https://www.acmicpc.net/problem/1260)|[Link](baekjoon/02_silver/n1260.py)
+|Baekjoon|1012|Silver 🥈|유기농 배추|DFS|[Link](https://www.acmicpc.net/problem/1012)|[Link](baekjoon/02_silver/n1012.py)
+|Baekjoon|2606|Silver 🥈|바이러스|DFS|[Link](https://www.acmicpc.net/problem/2606)|[Link](baekjoon/02_silver/n2606.py)
+|Baekjoon|11724|Silver 🥈|연결 요소의 개수|DFS|[Link](https://www.acmicpc.net/problem/11724)|[Link](baekjoon/02_silver/n11724.py)
 
 ---
 
-## Stack
-- [[Baekjoon 1874] 스택 수열 🥈](baekjoon/02_silver/n1874.py)
-- [[Baekjoon 4949] 균형잡힌 세상 🥈](baekjoon/02_silver/n4949.py)
+<br>
+
+## Binary Search
+
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Baekjoon|1654|Silver 🥈|랜선 자르기||[Link](https://www.acmicpc.net/problem/1654)|[Link](baekjoon/02_silver/n1654.py)
+|Baekjoon|2805|Silver 🥈|나무 자르기||[Link](https://www.acmicpc.net/problem/2805)|[Link](baekjoon/02_silver/n2805.py)
 
 ---
 
+<br>
 
+## Graph
+
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Baekjoon|1197|Gold 🥇|최소 스패닝 트리|Prim|[Link](https://www.acmicpc.net/problem/🥇)|[Link](baekjoon/03_gold/n🥇.py)
 
 ---
 
-## Time Series
-- [[Programmers 17676] 추석 트래픽 🥇](programmers/kakao/lv3/n17676.py)
-- [[Programmers 92341] 주차 요금 계산 🥈](programmers/kakao/lv2/n92341.py)
-
----
+<br>
 
 ## Tree
-- [[Baekjoon 7662] 이중 우선순위 큐 🥇](baekjoon/03_gold/n7662.py) - Heap
+
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+||||||[Link]()|[Link]()|
+
+---
+
+<br>
+
+## Others
+
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Programmers|17676|Lv3 🥇|추석 트래픽|Time|[Link](https://programmers.co.kr/learn/courses/30/lessons/17676)|[Link](programmers/kakao/lv3/n17676.py)
+|Programmers|92344|Lv3 🥇|파괴되지 않은 건물|Cumulative Sum|[Link](https://programmers.co.kr/learn/courses/30/lessons/92344)|[Link](programmers/kakao/lv3/n92344.py)
+|Programmers|92341|Lv2 🥈|주차 요금 계산|Time|[Link](https://programmers.co.kr/learn/courses/30/lessons/92341)|[Link](programmers/kakao/lv2/n92341.py)
+|Baekjoon|1074|Silver 🥈|Z|Recursion|[Link](https://www.acmicpc.net/problem/1074)|[Link](baekjoon/02_silver/n1074.py)
