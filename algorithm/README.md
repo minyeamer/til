@@ -1,32 +1,70 @@
 # My Problem Solving Study Notes
   - [References](#references)
-  - [Binary Search](#binary-search)
-  - [Brute Force](#brute-force)
-  - [Cumulative Sum](#cumulative-sum)
-  - [DFS/BFS](#dfsbfs)
-  - [Dynamic Programming](#dynamic-programming)
-  - [Graph](#graph)
-  - [Greedy](#greedy)
-  - [Hash Table](#hash-table)
   - [Math](#math)
-  - [Queue](#queue)
-  - [Recursion](#recursion)
-  - [Sort](#sort)
-  - [Stack](#stack)
   - [String](#string)
-  - [Time Series](#time-series)
+  - [Hash Table](#hash-table)
+  - [Stack/Queue](#stackqueue)
+  - [Heap](#heap)
+  - [Sorting](#sorting)
+  - [Brute Force](#brute-force)
+  - [Greedy](#greedy)
+  - [Dynamic Programming](#dynamic-programming)
+  - [DFS/BFS](#dfsbfs)
+  - [Binary Search](#binary-search)
+  - [Graph](#graph)
   - [Tree](#tree)
+  - [Others](#others)
+
+---
+
+## References
+|Name|Link|
+|:-:|:-|
+|Baekjoon|[https://www.acmicpc.net/](https://www.acmicpc.net/)|
+|solved.ac|[https://solved.ac/](https://solved.ac/)|
+|Leetcode|[https://leetcode.com/problemset/all/](https://leetcode.com/problemset/all/)|
+|Programmers|[https://school.programmers.co.kr/learn/challenges](https://school.programmers.co.kr/learn/challenges)|
 
 <!-- Medals  -->
 <!-- 🥇 🥈 🥉 -->
 
 ---
 
-## References
-- [Baekjoon](https://www.acmicpc.net/)
-- [solved.ac](https://solved.ac/)
-- [Leetcode](https://leetcode.com/problemset/all/)
-- [Programmers](https://school.programmers.co.kr/learn/challenges)
+## Math
+
+|Reference|Number|Level|Problem Name|Subcategory|Link|Problem Link|
+|:-:|:-:|:-:|:-:|:-:|:-|:-|
+|Programmers|60059|Lv3 🥇|자물쇠와 열쇠|Matrix|[Link](programmers/kakao/lv3/n60059.py)|[Link](https://programmers.co.kr/learn/courses/30/lessons/60059)|
+|Programmers|12977|Lv1 🥉|소수 만들기|Combination|[Link](programmers/lv1/n12977.py)|[Link](https://programmers.co.kr/learn/courses/30/lessons/12977)|
+|Baekjoon|1010|Silver 🥈|다리 놓기|Combination|[Link](baekjoon/02_silver/n1010.py)|[Link](https://www.acmicpc.net/problem/1010)|
+|Baekjoon|1463|Silver 🥈|1로 만들기||[Link](baekjoon/02_silver/n1463.py)|[Link](https://www.acmicpc.net/problem/1463)|
+|Baekjoon|2108|Silver 🥈|통계학||[Link](baekjoon/02_silver/n2108.py)|[Link](https://www.acmicpc.net/problem/2108)|
+|Baekjoon|1049|Silver 🥈|기타줄||[Link](baekjoon/02_silver/n1049.py)|[Link](https://www.acmicpc.net/problem/1049)|
+|Baekjoon|2475|Bronze 🥉|검증수||[Link](baekjoon/01_bronze/n2475.py)|[Link](https://www.acmicpc.net/problem/2475)|
+|Baekjoon|11050|Bronze 🥉|이항 계수 1|Combination|[Link](baekjoon/01_bronze/n11050.py)|[Link](https://www.acmicpc.net/problem/11050)|
+
+---
+
+|Reference|Number|Level|Problem Name|Subcategory|Link|Problem Link|
+|:-:|:-:|:-:|:-:|:-:|:-|:-|
+||||||||
+
+## String
+- [[Programmers 60057] 문자열 압축 🥈](programmers/kakao/lv2/n60057.py)
+- [[Programmers 72410] 신규 아이디 추천 🥉](programmers/kakao/lv1/n72410.py) - Regular Expression
+
+
+## Hash Table
+- [[Baekjoon 1620] 나는야 포켓몬 마스터 이다솜 🥈](baekjoon/02_silver/n1620.py) - Dictionary
+- [[Baekjoon 1764] 듣보잡 🥈](baekjoon/02_silver/n1764.py) - Set
+- [[Baekjoon 1920] 수 찾기 🥈](baekjoon/02_silver/n1920.py) - Set
+- [[Baekjoon 10816] 숫자 카드 2 🥈](baekjoon/02_silver/n10816.py) - Counter
+- [[Programmers 42888] 오픈채팅방 🥈](programmers/kakao/lv2/n42888.py)
+- [[Programmers 92334] 신고 결과 받기 🥉](programmers/kakao/lv1/n92334.py) - Dictionary
+- [[Programmers 81301] 숫자 문자열과 영단어 🥉](programmers/kakao/lv1/n81301.py) - Dictionary
+
+
+
 
 ---
 
@@ -78,26 +116,10 @@
 
 ---
 
-## Hash Table
-- [[Baekjoon 1620] 나는야 포켓몬 마스터 이다솜 🥈](baekjoon/02_silver/n1620.py) - Dictionary
-- [[Baekjoon 1764] 듣보잡 🥈](baekjoon/02_silver/n1764.py) - Set
-- [[Baekjoon 1920] 수 찾기 🥈](baekjoon/02_silver/n1920.py) - Set
-- [[Baekjoon 10816] 숫자 카드 2 🥈](baekjoon/02_silver/n10816.py) - Counter
-- [[Programmers 42888] 오픈채팅방 🥈](programmers/kakao/lv2/n42888.py)
-- [[Programmers 92334] 신고 결과 받기 🥉](programmers/kakao/lv1/n92334.py) - Dictionary
-- [[Programmers 81301] 숫자 문자열과 영단어 🥉](programmers/kakao/lv1/n81301.py) - Dictionary
 
 ---
 
-## Math
-- [[Baekjoon 1010] 다리 놓기 🥈](baekjoon/02_silver/n1010.py) - Combination
-- [[Baekjoon 1463] 1로 만들기 🥈](baekjoon/02_silver/n1463.py)
-- [[Baekjoon 2108] 통계학 🥈](baekjoon/02_silver/n2108.py)
-- [[Baekjoon 1049] 기타줄 🥈](baekjoon/02_silver/n1049.py)
-- [[Baekjoon 2475] 검증수 🥉](baekjoon/01_bronze/n2475.py)
-- [[Baekjoon 11050] 이항 계수 1 🥉](baekjoon/01_bronze/n11050.py) - Combination
-- [[Programmers 60059] 자물쇠와 열쇠 🥇](programmers/kakao/lv3/n60059.py) - Matrix
-- [[Programmers 12977] 소수 만들기 🥉](programmers/lv1/n12977.py) - Combination
+
 
 ---
 
@@ -130,9 +152,7 @@
 
 ---
 
-## String
-- [[Programmers 60057] 문자열 압축 🥈](programmers/kakao/lv2/n60057.py)
-- [[Programmers 72410] 신규 아이디 추천 🥉](programmers/kakao/lv1/n72410.py) - Regular Expression
+
 
 ---
 
