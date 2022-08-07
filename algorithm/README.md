@@ -17,8 +17,6 @@
 
 ---
 
-<br>
-
 ## References
 |Name|Link|
 |:-:|:-|
@@ -31,8 +29,6 @@
 <!-- 🥇 🥈 🥉 -->
 
 ---
-
-<br>
 
 ## Math
 
@@ -49,8 +45,6 @@
 
 ---
 
-<br>
-
 ## String
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
@@ -59,8 +53,6 @@
 |Programmers|72410|Lv1 🥉|신규 아이디 추천|Regular Expression|[Link](https://programmers.co.kr/learn/courses/30/lessons/72410)|[Link](programmers/kakao/lv1/n72410.py)|
 
 ---
-
-<br>
 
 ## Hash Table
 
@@ -76,8 +68,6 @@
 
 ---
 
-<br>
-
 ## Stack/Queue
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
@@ -88,8 +78,6 @@
 
 ---
 
-<br>
-
 ## Heap
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
@@ -97,8 +85,6 @@
 |Baekjoon|7662|Gold 🥇|이중 우선순위 큐|Guidance|[Link](https://www.acmicpc.net/problem/7662)|[Link](baekjoon/03_gold/n7662.py)
 
 ---
-
-<br>
 
 ## Sorting
 
@@ -115,8 +101,6 @@
 
 ---
 
-<br>
-
 ## Brute Force
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
@@ -125,8 +109,6 @@
 |Baekjoon|18111|Silver 🥈|마인크래프트||[Link](https://www.acmicpc.net/problem/18111)|[Link](baekjoon/02_silver/n18111.py)
 
 ---
-
-<br>
 
 ## Greedy
 
@@ -139,8 +121,6 @@
 
 ---
 
-<br>
-
 ## Dynamic Programming
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
@@ -149,8 +129,6 @@
 |Baekjoon|1003|Silver 🥈|피보나치 함수||[Link](https://www.acmicpc.net/problem/1003)|[Link](baekjoon/02_silver/n1003.py)
 
 ---
-
-<br>
 
 ## DFS/BFS
 
@@ -168,8 +146,6 @@
 
 ---
 
-<br>
-
 ## Binary Search
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
@@ -179,8 +155,6 @@
 
 ---
 
-<br>
-
 ## Graph
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
@@ -189,8 +163,6 @@
 
 ---
 
-<br>
-
 ## Tree
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
@@ -198,8 +170,6 @@
 ||||||[Link]()|[Link]()|
 
 ---
-
-<br>
 
 ## Others
 
