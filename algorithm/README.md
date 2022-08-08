@@ -58,7 +58,11 @@
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Programmers|42577|Lv2 🥈|전화번호 목록||[Link](https://programmers.co.kr/learn/courses/30/lessons/42577)|[Link](programmers/lv2/n42577.py)|
+|Programmers|42578|Lv2 🥈|위장|Set|[Link](https://programmers.co.kr/learn/courses/30/lessons/42578)|[Link](programmers/lv2/n42578.py)|
 |Programmers|42888|Lv2 🥈|오픈채팅방||[Link](https://programmers.co.kr/learn/courses/30/lessons/42888)|[Link](programmers/kakao/lv2/n42888.py)|
+|Programmers|1845|Lv1 🥉|폰켓몬||[Link](https://programmers.co.kr/learn/courses/30/lessons/1845)|[Link](programmers/lv1/n1845.py)|
+|Programmers|42576|Lv1 🥉|완주하지 못한 선수|Counter|[Link](https://programmers.co.kr/learn/courses/30/lessons/42576)|[Link](programmers/lv1/n42576.py)|
 |Programmers|92334|Lv1 🥉|신고 결과 받기|Dictionary|[Link](https://programmers.co.kr/learn/courses/30/lessons/92334)|[Link](programmers/kakao/lv1/n92334.py)|
 |Programmers|81303|Lv1 🥉|숫자 문자열과 영단어|Dictionary|[Link](https://programmers.co.kr/learn/courses/30/lessons/81301)|[Link](programmers/kakao/lv1/n81301.py)|
 |Baekjoon|1620|Silver 🥈|나는야 포켓몬 마스터 이다솜|Dictionary|[Link](https://www.acmicpc.net/problem/1620)|[Link](baekjoon/02_silver/n1620.py)|
@@ -72,6 +76,7 @@
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Programmers|17680|Lv2 🥈|캐시|Deque|[Link](https://programmers.co.kr/learn/courses/30/lessons/17680)|[Link](programmers/kakao/lv2/n17680.py)
 |Baekjoon|1874|Silver 🥈|스택 수열|Stack|[Link](https://www.acmicpc.net/problem/1874)|[Link](baekjoon/02_silver/n1874.py)
 |Baekjoon|1966|Silver 🥈|프린터 큐|Deque|[Link](https://www.acmicpc.net/problem/1966)|[Link](baekjoon/02_silver/n1966.py)
 |Baekjoon|4949|Silver 🥈|균형잡힌 세상|Stack|[Link](https://www.acmicpc.net/problem/4949)|[Link](baekjoon/02_silver/n4949.py)
@@ -92,7 +97,8 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Leetcode|1337|Easy 🥉|The K Weakest Rows in a Matrix||[Link](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Link](leetcode/01_easy/n1337.py)
 |Programmers|42746|Lv2 🥈|가장 큰 수||[Link](https://programmers.co.kr/learn/courses/30/lessons/42746)|[Link](programmers/lv2/n42746.py)
-|Programmers|42747|Lv2 🥈|H-Index||[Link](https://programmers.co.kr/learn/courses/30/lessons/)|[Link](programmers/lv2/n42747.py)
+|Programmers|42747|Lv2 🥈|H-Index||[Link](https://programmers.co.kr/learn/courses/30/lessons/42747)|[Link](programmers/lv2/n42747.py)
+|Programmers|42748|Lv1 🥉|K번째수||[Link](https://programmers.co.kr/learn/courses/30/lessons/42748)|[Link](programmers/lv1/n42748.py)
 |Baekjoon|1181|Silver 🥈|단어 정렬||[Link](https://www.acmicpc.net/problem/1431)|[Link](baekjoon/02_silver/n1431.py)
 |Baekjoon|1431|Silver 🥈|시리얼 번호||[Link](https://www.acmicpc.net/problem/1431)|[Link](baekjoon/02_silver/n1431.py)
 |Baekjoon|10816|Silver 🥈|숫자 카드 2||[Link](https://www.acmicpc.net/problem/10816)|[Link](baekjoon/02_silver/n10816.py)
@@ -105,6 +111,9 @@
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Programmers|17683|Lv2 🥈|방금그곡||[Link](https://programmers.co.kr/learn/courses/30/lessons/17683)|[Link](programmers/kakao/lv2/n17683.py)
+|Programmers|42842|Lv2 🥈|카펫||[Link](https://programmers.co.kr/learn/courses/30/lessons/42842)|[Link](programmers/lv2/n42842.py)
+|Programmers|42840|Lv1 🥉|모의고사||[Link](https://programmers.co.kr/learn/courses/30/lessons/42840)|[Link](programmers/lv1/n42840.py)
 |Baekjoon|1107|Gold 🥇|리모컨||[Link](https://www.acmicpc.net/problem/1107)|[Link](baekjoon/03_gold/n1107.py)
 |Baekjoon|18111|Silver 🥈|마인크래프트||[Link](https://www.acmicpc.net/problem/18111)|[Link](baekjoon/02_silver/n18111.py)
 
@@ -136,9 +145,9 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Programmers|43162|Lv3 🥇|네트워크|DFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/43162)|[Link](programmers/lv3/n43162.py)
 |Programmers|43163|Lv3 🥇|단어 변환|BFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/43163)|[Link](programmers/lv3/n43163.py)
-|Programmers|49189|Lv3 🥇|가장 먼 노드|BFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/49189)|[Link](programmers/lv3/n49189.py)
-|Programmers|1844|Lv2 🥈|게임 맵 최단거리|BFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/)|[Link](programmers/lv2/n1844.py)
+|Programmers|1844|Lv2 🥈|게임 맵 최단거리|BFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/1844)|[Link](programmers/lv2/n1844.py)
 |Programmers|43165|Lv2 🥈|타겟 넘버|DFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/43165)|[Link](programmers/lv2/n43165.py)
+|Programmers|87946|Lv2 🥈|피로도|DFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/87946)|[Link](programmers/lv2/n87946.py)
 |Baekjoon|1260|Silver 🥈|DFS와 BFS|Guidance|[Link](https://www.acmicpc.net/problem/1260)|[Link](baekjoon/02_silver/n1260.py)
 |Baekjoon|1012|Silver 🥈|유기농 배추|DFS|[Link](https://www.acmicpc.net/problem/1012)|[Link](baekjoon/02_silver/n1012.py)
 |Baekjoon|2606|Silver 🥈|바이러스|DFS|[Link](https://www.acmicpc.net/problem/2606)|[Link](baekjoon/02_silver/n2606.py)
@@ -159,6 +168,8 @@
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Programmers|49189|Lv3 🥇|가장 먼 노드|BFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/49189)|[Link](programmers/lv3/n49189.py)
+|Programmers|49191|Lv3 🥇|순위|Dictionary|[Link](https://programmers.co.kr/learn/courses/30/lessons/49191)|[Link](programmers/lv3/n49191.py)
 |Baekjoon|1197|Gold 🥇|최소 스패닝 트리|Prim|[Link](https://www.acmicpc.net/problem/🥇)|[Link](baekjoon/03_gold/n🥇.py)
 
 ---
