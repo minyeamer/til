@@ -1,4 +1,4 @@
-# My Problem Solving Study Notes
+# My Algorithm Study Notes
   - [References](#references)
   - [Math](#math)
   - [String](#string)
@@ -138,6 +138,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Programmers|43105|Lv3 🥇|정수 삼각형||[Link](https://programmers.co.kr/learn/courses/30/lessons/43105)|[Link](programmers/lv3/n43105.py)
 |Baekjoon|1003|Silver 🥈|피보나치 함수||[Link](https://www.acmicpc.net/problem/1003)|[Link](baekjoon/02_silver/n1003.py)
+|Baekjoon|1495|Silver 🥈|기타리스트||[Link](https://www.acmicpc.net/problem/1495)|[Link](baekjoon/02_silver/n1495.py)
 
 ---
 
@@ -154,6 +155,7 @@
 |Baekjoon|1012|Silver 🥈|유기농 배추|DFS|[Link](https://www.acmicpc.net/problem/1012)|[Link](baekjoon/02_silver/n1012.py)
 |Baekjoon|2606|Silver 🥈|바이러스|DFS|[Link](https://www.acmicpc.net/problem/2606)|[Link](baekjoon/02_silver/n2606.py)
 |Baekjoon|11724|Silver 🥈|연결 요소의 개수|DFS|[Link](https://www.acmicpc.net/problem/11724)|[Link](baekjoon/02_silver/n11724.py)
+|Baekjoon|18352|Silver 🥈|특정 거리의 도시 찾기|BFS|[Link](https://www.acmicpc.net/problem/18352)|[Link](baekjoon/02_silver/n18352.py)
 
 ---
 
