@@ -1,4 +1,4 @@
-# My Algorithm Study Notes
+# Algorithm Study Notes
   - [References](#references)
   - [Math](#math)
   - [String](#string)
@@ -8,12 +8,14 @@
   - [Sorting](#sorting)
   - [Brute Force](#brute-force)
   - [Greedy](#greedy)
+  - [Simulation](#simulation)
   - [Dynamic Programming](#dynamic-programming)
   - [DFS/BFS](#dfsbfs)
   - [Binary Search](#binary-search)
   - [Graph](#graph)
   - [Tree](#tree)
   - [Others](#others)
+  - [SQL](#sql)
 
 ---
 
@@ -24,6 +26,7 @@
 |Programmers|[https://school.programmers.co.kr/learn/challenges](https://school.programmers.co.kr/learn/challenges)|
 |Baekjoon|[https://www.acmicpc.net/](https://www.acmicpc.net/)|
 |solved.ac|[https://solved.ac/](https://solved.ac/)|
+|HackerRank|[https://www.hackerrank.com/domains/sql](https://www.hackerrank.com/domains/sql)|
 
 <!-- Medals  -->
 <!-- 🥇 🥈 🥉 -->
@@ -132,6 +135,14 @@
 
 ---
 
+## Simulation
+
+|Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Programmers|16918|Lv2 🥈|봄버맨||[Link](https://programmers.co.kr/learn/courses/30/lessons/16918)|[Link](programmers/kakao/lv2/n16918.py)
+
+---
+
 ## Dynamic Programming
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
@@ -139,6 +150,7 @@
 |Programmers|43105|Lv3 🥇|정수 삼각형||[Link](https://programmers.co.kr/learn/courses/30/lessons/43105)|[Link](programmers/lv3/n43105.py)
 |Baekjoon|1003|Silver 🥈|피보나치 함수||[Link](https://www.acmicpc.net/problem/1003)|[Link](baekjoon/02_silver/n1003.py)
 |Baekjoon|1495|Silver 🥈|기타리스트||[Link](https://www.acmicpc.net/problem/1495)|[Link](baekjoon/02_silver/n1495.py)
+|Baekjoon|2302|Silver 🥈|극장 좌석||[Link](https://www.acmicpc.net/problem/2302)|[Link](baekjoon/02_silver/n2302.py)
 
 ---
 
@@ -194,3 +206,12 @@
 |Programmers|92344|Lv3 🥇|파괴되지 않은 건물|Cumulative Sum|[Link](https://programmers.co.kr/learn/courses/30/lessons/92344)|[Link](programmers/kakao/lv3/n92344.py)
 |Programmers|92341|Lv2 🥈|주차 요금 계산|Time|[Link](https://programmers.co.kr/learn/courses/30/lessons/92341)|[Link](programmers/kakao/lv2/n92341.py)
 |Baekjoon|1074|Silver 🥈|Z|Recursion|[Link](https://www.acmicpc.net/problem/1074)|[Link](baekjoon/02_silver/n1074.py)
+
+
+---
+
+## SQL
+
+|Reference|Level|Problem Name|Subcategory|Problem Link|Solution Link|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|HackerRank|Advanced 🥇|New Companies|Join, Count|[Link](https://www.hackerrank.com/challenges/the-company/problem)|[Link](hackerrank/03_advanced/new_companies.sql)
