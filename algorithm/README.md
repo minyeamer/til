@@ -139,7 +139,7 @@
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Programmers|16918|Lv2 🥈|봄버맨||[Link](https://programmers.co.kr/learn/courses/30/lessons/16918)|[Link](programmers/kakao/lv2/n16918.py)
+|Baekjoon|16918|Lv2 🥈|봄버맨||[Link](https://programmers.co.kr/learn/courses/30/lessons/16918)|[Link](programmers/kakao/lv2/n16918.py)
 
 ---
 
@@ -167,6 +167,7 @@
 |Baekjoon|1012|Silver 🥈|유기농 배추|DFS|[Link](https://www.acmicpc.net/problem/1012)|[Link](baekjoon/02_silver/n1012.py)
 |Baekjoon|2606|Silver 🥈|바이러스|DFS|[Link](https://www.acmicpc.net/problem/2606)|[Link](baekjoon/02_silver/n2606.py)
 |Baekjoon|11724|Silver 🥈|연결 요소의 개수|DFS|[Link](https://www.acmicpc.net/problem/11724)|[Link](baekjoon/02_silver/n11724.py)
+|Baekjoon|16987|Silver 🥈|계란으로 계란치기|Backtracking|[Link](https://www.acmicpc.net/problem/16987)|[Link](baekjoon/02_silver/n16987.py)
 |Baekjoon|18352|Silver 🥈|특정 거리의 도시 찾기|BFS|[Link](https://www.acmicpc.net/problem/18352)|[Link](baekjoon/02_silver/n18352.py)
 
 ---
@@ -203,10 +204,10 @@
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Programmers|17676|Lv3 🥇|추석 트래픽|Time|[Link](https://programmers.co.kr/learn/courses/30/lessons/17676)|[Link](programmers/kakao/lv3/n17676.py)
-|Programmers|92344|Lv3 🥇|파괴되지 않은 건물|Cumulative Sum|[Link](https://programmers.co.kr/learn/courses/30/lessons/92344)|[Link](programmers/kakao/lv3/n92344.py)
+|Programmers|92344|Lv3 🥇|파괴되지 않은 건물|Prefix Sum|[Link](https://programmers.co.kr/learn/courses/30/lessons/92344)|[Link](programmers/kakao/lv3/n92344.py)
 |Programmers|92341|Lv2 🥈|주차 요금 계산|Time|[Link](https://programmers.co.kr/learn/courses/30/lessons/92341)|[Link](programmers/kakao/lv2/n92341.py)
 |Baekjoon|1074|Silver 🥈|Z|Recursion|[Link](https://www.acmicpc.net/problem/1074)|[Link](baekjoon/02_silver/n1074.py)
-
+|Baekjoon|21318|Silver 🥈|피아노 체조|Prefix Sum|[Link](https://www.acmicpc.net/problem/21318)|[Link](baekjoon/02_silver/n21318.py)
 
 ---
 
