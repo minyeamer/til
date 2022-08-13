@@ -148,6 +148,7 @@
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Programmers|42895|Lv3 🥇|N으로 표현||[Link](https://programmers.co.kr/learn/courses/30/lessons/42895)|[Link](programmers/lv3/n42895.py)
 |Programmers|43105|Lv3 🥇|정수 삼각형||[Link](https://programmers.co.kr/learn/courses/30/lessons/43105)|[Link](programmers/lv3/n43105.py)
 |Baekjoon|1003|Silver 🥈|피보나치 함수||[Link](https://www.acmicpc.net/problem/1003)|[Link](baekjoon/02_silver/n1003.py)
 |Baekjoon|1495|Silver 🥈|기타리스트||[Link](https://www.acmicpc.net/problem/1495)|[Link](baekjoon/02_silver/n1495.py)
