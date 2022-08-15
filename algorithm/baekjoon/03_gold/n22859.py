@@ -3,7 +3,7 @@
 - https://www.acmicpc.net/problem/22859
 
 1. Idea
-- Implementation
+- Implementation, String
 - <main>, <div>, <p> 태그 등을 구분
 - <div>의 attribute인 title을 우선 출력하고 안에 있는 <p>를 한 줄씩 출력
 - <p> 안에 있는 태그와 시작과 끝에 있는 공백을 지우고 2개 이상의 공백을 하나로 변경

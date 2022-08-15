@@ -45,6 +45,7 @@
 |Baekjoon|2108|Silver 🥈|통계학||[Link](https://www.acmicpc.net/problem/2108)|[Link](baekjoon/02_silver/n2108.py)
 |Baekjoon|1049|Silver 🥈|기타줄||[Link](https://www.acmicpc.net/problem/1049)|[Link](baekjoon/02_silver/n1049.py)
 |Baekjoon|2475|Bronze 🥉|검증수||[Link](https://www.acmicpc.net/problem/2475)|[Link](baekjoon/01_bronze/n2475.py)
+|Baekjoon|2609|Bronze 🥉|최대공약수와 최소공배수|Combination|[Link](https://www.acmicpc.net/problem/2609)|[Link](baekjoon/01_bronze/n2609.py)
 |Baekjoon|11050|Bronze 🥉|이항 계수 1|Combination|[Link](https://www.acmicpc.net/problem/11050)|[Link](baekjoon/01_bronze/n11050.py)
 
 ---
@@ -56,6 +57,7 @@
 |Programmers|60057|Lv2 🥈|문자열 압축||[Link](https://programmers.co.kr/learn/courses/30/lessons/60057)|[Link](programmers/kakao/lv2/n60057.py)|
 |Programmers|72410|Lv1 🥉|신규 아이디 추천|Regular Expression|[Link](https://programmers.co.kr/learn/courses/30/lessons/72410)|[Link](programmers/kakao/lv1/n72410.py)|
 |Baekjoon|22859|Gold 🥇|HTML 파싱|Regular Expression|[Link](https://www.acmicpc.net/problem/22859)|[Link](baekjoon/03_gold/n22859.py)
+|Baekjoon|15829|Bronze 🥉|Hashing|Hashing|[Link](https://www.acmicpc.net/problem/15829)|[Link](baekjoon/01_bronze/n15829.py)
 
 ---
 
@@ -82,9 +84,16 @@
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Programmers|17680|Lv2 🥈|캐시|Deque|[Link](https://programmers.co.kr/learn/courses/30/lessons/17680)|[Link](programmers/kakao/lv2/n17680.py)
+|Baekjoon|5430|Gold 🥇|AC|Deque|[Link](https://www.acmicpc.net/problem/5430)|[Link](baekjoon/03_gold/n5430.py)
 |Baekjoon|1874|Silver 🥈|스택 수열|Stack|[Link](https://www.acmicpc.net/problem/1874)|[Link](baekjoon/02_silver/n1874.py)
 |Baekjoon|1966|Silver 🥈|프린터 큐|Deque|[Link](https://www.acmicpc.net/problem/1966)|[Link](baekjoon/02_silver/n1966.py)
 |Baekjoon|4949|Silver 🥈|균형잡힌 세상|Stack|[Link](https://www.acmicpc.net/problem/4949)|[Link](baekjoon/02_silver/n4949.py)
+|Baekjoon|9012|Silver 🥈|괄호|Stack|[Link](https://www.acmicpc.net/problem/9012)|[Link](baekjoon/02_silver/n9012.py)
+|Baekjoon|10773|Silver 🥈|제로|Stack|[Link](https://www.acmicpc.net/problem/10773)|[Link](baekjoon/02_silver/n10773.py)
+|Baekjoon|10828|Silver 🥈|스택|Stack|[Link](https://www.acmicpc.net/problem/10828)|[Link](baekjoon/02_silver/n10828.py)
+|Baekjoon|10845|Silver 🥈|큐|Queue|[Link](https://www.acmicpc.net/problem/10845)|[Link](baekjoon/02_silver/n10845.py)
+|Baekjoon|10866|Silver 🥈|덱|Deque|[Link](https://www.acmicpc.net/problem/10866)|[Link](baekjoon/02_silver/n10866.py)
+|Baekjoon|11866|Silver 🥈|요세푸스 문제 0|Stack|[Link](https://www.acmicpc.net/problem/11866)|[Link](baekjoon/02_silver/n11866.py)
 
 ---
 
@@ -107,7 +116,9 @@
 |Programmers|42748|Lv1 🥉|K번째수||[Link](https://programmers.co.kr/learn/courses/30/lessons/42748)|[Link](programmers/lv1/n42748.py)
 |Baekjoon|1181|Silver 🥈|단어 정렬||[Link](https://www.acmicpc.net/problem/1431)|[Link](baekjoon/02_silver/n1431.py)
 |Baekjoon|1431|Silver 🥈|시리얼 번호||[Link](https://www.acmicpc.net/problem/1431)|[Link](baekjoon/02_silver/n1431.py)
+|Baekjoon|10814|Silver 🥈|나이순 정렬||[Link](https://www.acmicpc.net/problem/10814)|[Link](baekjoon/02_silver/n10814.py)
 |Baekjoon|10816|Silver 🥈|숫자 카드 2||[Link](https://www.acmicpc.net/problem/10816)|[Link](baekjoon/02_silver/n10816.py)
+|Baekjoon|11651|Silver 🥈|좌표 정렬하기 2||[Link](https://www.acmicpc.net/problem/11651)|[Link](baekjoon/02_silver/n11651.py)
 |Baekjoon|1259|Bronze 🥉|팰린드롬수||[Link](https://www.acmicpc.net/problem/1259)|[Link](baekjoon/01_bronze/n1259.py)
 |Baekjoon|2920|Bronze 🥉|음계||[Link](https://www.acmicpc.net/problem/2920)|[Link](baekjoon/01_bronze/n2920.py)
 
@@ -152,8 +163,10 @@
 |Programmers|42895|Lv3 🥇|N으로 표현||[Link](https://programmers.co.kr/learn/courses/30/lessons/42895)|[Link](programmers/lv3/n42895.py)
 |Programmers|43105|Lv3 🥇|정수 삼각형||[Link](https://programmers.co.kr/learn/courses/30/lessons/43105)|[Link](programmers/lv3/n43105.py)
 |Baekjoon|1003|Silver 🥈|피보나치 함수||[Link](https://www.acmicpc.net/problem/1003)|[Link](baekjoon/02_silver/n1003.py)
+|Baekjoon|1463|Silver 🥈|1로 만들기||[Link](https://www.acmicpc.net/problem/1463)|[Link](baekjoon/02_silver/n1463.py)
 |Baekjoon|1495|Silver 🥈|기타리스트||[Link](https://www.acmicpc.net/problem/1495)|[Link](baekjoon/02_silver/n1495.py)
 |Baekjoon|2302|Silver 🥈|극장 좌석||[Link](https://www.acmicpc.net/problem/2302)|[Link](baekjoon/02_silver/n2302.py)
+|Baekjoon|2579|Silver 🥈|계단 오르기||[Link](https://www.acmicpc.net/problem/2579)|[Link](baekjoon/02_silver/n2579.py)
 
 ---
 
