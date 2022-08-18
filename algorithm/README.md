@@ -135,6 +135,7 @@
 |Programmers|42842|Lv2 🥈|카펫||[Link](https://programmers.co.kr/learn/courses/30/lessons/42842)|[Link](programmers/lv2/n42842.py)
 |Programmers|42840|Lv1 🥉|모의고사||[Link](https://programmers.co.kr/learn/courses/30/lessons/42840)|[Link](programmers/lv1/n42840.py)
 |Baekjoon|1107|Gold 🥇|리모컨||[Link](https://www.acmicpc.net/problem/1107)|[Link](baekjoon/03_gold/n1107.py)
+|Baekjoon|1182|Silver 🥈|부분수열의 합||[Link](https://www.acmicpc.net/problem/1182)|[Link](baekjoon/02_silver/n1182.py)
 |Baekjoon|18111|Silver 🥈|마인크래프트||[Link](https://www.acmicpc.net/problem/18111)|[Link](baekjoon/02_silver/n18111.py)
 
 ---
@@ -197,6 +198,7 @@
 |Baekjoon|1389|Silver 🥈|케빈 베이컨의 6단계 법칙|BFS|[Link](https://www.acmicpc.net/problem/1389)|[Link](baekjoon/02_silver/n1389.py)
 |Baekjoon|2606|Silver 🥈|바이러스|DFS|[Link](https://www.acmicpc.net/problem/2606)|[Link](baekjoon/02_silver/n2606.py)
 |Baekjoon|11724|Silver 🥈|연결 요소의 개수|DFS|[Link](https://www.acmicpc.net/problem/11724)|[Link](baekjoon/02_silver/n11724.py)
+|Baekjoon|11725|Silver 🥈|트리의 부모 찾기|BFS|[Link](https://www.acmicpc.net/problem/11725)|[Link](baekjoon/02_silver/n11725.py)
 |Baekjoon|16987|Silver 🥈|계란으로 계란치기|Backtracking|[Link](https://www.acmicpc.net/problem/16987)|[Link](baekjoon/02_silver/n16987.py)
 |Baekjoon|18352|Silver 🥈|특정 거리의 도시 찾기|BFS|[Link](https://www.acmicpc.net/problem/18352)|[Link](baekjoon/02_silver/n18352.py)
 
