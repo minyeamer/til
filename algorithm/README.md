@@ -221,6 +221,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Programmers|49189|Lv3 🥇|가장 먼 노드|BFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/49189)|[Link](programmers/lv3/n49189.py)
 |Programmers|49191|Lv3 🥇|순위|Dictionary|[Link](https://programmers.co.kr/learn/courses/30/lessons/49191)|[Link](programmers/lv3/n49191.py)
+|Programmers|77486|Lv3 🥇|다단계 칫솔 판매|Union-Find|[Link](https://programmers.co.kr/learn/courses/30/lessons/77486)|[Link](programmers/lv3/n77486.py)
 |Baekjoon|1197|Gold 🥇|최소 스패닝 트리|Prim|[Link](https://www.acmicpc.net/problem/🥇)|[Link](baekjoon/03_gold/n🥇.py)
 
 ---
