@@ -104,6 +104,7 @@
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Baekjoon|7662|Gold 🥇|이중 우선순위 큐|Guidance|[Link](https://www.acmicpc.net/problem/7662)|[Link](baekjoon/03_gold/n7662.py)
+|Baekjoon|1927|Silver 🥈|최소 힙|Guidance|[Link](https://www.acmicpc.net/problem/1927)|[Link](baekjoon/02_silver/n1927.py)
 
 ---
 
@@ -209,8 +210,9 @@
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Programmers|43238|Lv3 🥇|입국심사||[Link](https://programmers.co.kr/learn/courses/30/lessons/43238)|[Link](programmers/lv3/n43238.py)
-|Programmers|68936|Lv2 🥈|쿼드압축 후 개수 세기||[Link](https://programmers.co.kr/learn/courses/30/lessons/68936)|[Link](programmers/lv2/n68936.py)
+|Programmers|68936|Lv2 🥈|쿼드압축 후 개수 세기|Divide|[Link](https://programmers.co.kr/learn/courses/30/lessons/68936)|[Link](programmers/lv2/n68936.py)
 |Baekjoon|1654|Silver 🥈|랜선 자르기||[Link](https://www.acmicpc.net/problem/1654)|[Link](baekjoon/02_silver/n1654.py)
+|Baekjoon|1780|Silver 🥈|종이의 개수||[Link](https://www.acmicpc.net/problem/1780)|[Link](baekjoon/02_silver/n1780.py)
 |Baekjoon|2805|Silver 🥈|나무 자르기||[Link](https://www.acmicpc.net/problem/2805)|[Link](baekjoon/02_silver/n2805.py)
 
 ---
@@ -222,7 +224,7 @@
 |Programmers|49189|Lv3 🥇|가장 먼 노드|BFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/49189)|[Link](programmers/lv3/n49189.py)
 |Programmers|49191|Lv3 🥇|순위|Dictionary|[Link](https://programmers.co.kr/learn/courses/30/lessons/49191)|[Link](programmers/lv3/n49191.py)
 |Programmers|77486|Lv3 🥇|다단계 칫솔 판매|Union-Find|[Link](https://programmers.co.kr/learn/courses/30/lessons/77486)|[Link](programmers/lv3/n77486.py)
-|Baekjoon|1197|Gold 🥇|최소 스패닝 트리|Prim|[Link](https://www.acmicpc.net/problem/🥇)|[Link](baekjoon/03_gold/n🥇.py)
+|Baekjoon|1197|Gold 🥇|최소 스패닝 트리|Prim|[Link](https://www.acmicpc.net/problem/1197)|[Link](baekjoon/03_gold/n1197.py)
 
 ---
 
