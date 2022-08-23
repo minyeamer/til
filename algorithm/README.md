@@ -215,7 +215,8 @@
 |Programmers|43238|Lv3 🥇|입국심사||[Link](https://programmers.co.kr/learn/courses/30/lessons/43238)|[Link](programmers/lv3/n43238.py)
 |Programmers|68936|Lv2 🥈|쿼드압축 후 개수 세기|Divide|[Link](https://programmers.co.kr/learn/courses/30/lessons/68936)|[Link](programmers/lv2/n68936.py)
 |Baekjoon|1654|Silver 🥈|랜선 자르기||[Link](https://www.acmicpc.net/problem/1654)|[Link](baekjoon/02_silver/n1654.py)
-|Baekjoon|1780|Silver 🥈|종이의 개수||[Link](https://www.acmicpc.net/problem/1780)|[Link](baekjoon/02_silver/n1780.py)
+|Baekjoon|1780|Silver 🥈|종이의 개수|Divide|[Link](https://www.acmicpc.net/problem/1780)|[Link](baekjoon/02_silver/n1780.py)
+|Baekjoon|2630|Silver 🥈|색종이 만들기|Divide|[Link](https://www.acmicpc.net/problem/2630)|[Link](baekjoon/02_silver/n2630.py)
 |Baekjoon|2805|Silver 🥈|나무 자르기||[Link](https://www.acmicpc.net/problem/2805)|[Link](baekjoon/02_silver/n2805.py)
 
 ---
