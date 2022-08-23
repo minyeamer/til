@@ -136,6 +136,7 @@
 |Programmers|42842|Lv2 🥈|카펫||[Link](https://programmers.co.kr/learn/courses/30/lessons/42842)|[Link](programmers/lv2/n42842.py)
 |Programmers|42840|Lv1 🥉|모의고사||[Link](https://programmers.co.kr/learn/courses/30/lessons/42840)|[Link](programmers/lv1/n42840.py)
 |Baekjoon|1107|Gold 🥇|리모컨||[Link](https://www.acmicpc.net/problem/1107)|[Link](baekjoon/03_gold/n1107.py)
+|Baekjoon|15686|Gold 🥇|치킨 배달|Combination|[Link](https://www.acmicpc.net/problem/15686)|[Link](baekjoon/03_gold/n15686.py)
 |Baekjoon|1182|Silver 🥈|부분수열의 합||[Link](https://www.acmicpc.net/problem/1182)|[Link](baekjoon/02_silver/n1182.py)
 |Baekjoon|18111|Silver 🥈|마인크래프트||[Link](https://www.acmicpc.net/problem/18111)|[Link](baekjoon/02_silver/n18111.py)
 
@@ -145,11 +146,13 @@
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Programmers|17676|Lv3 🥇|추석 트래픽|Sliding Window|[Link](https://programmers.co.kr/learn/courses/30/lessons/17676)|[Link](programmers/kakao/lv3/n17676.py)
 |Programmers|62048|Lv2 🥈|멀쩡한 사각형||[Link](https://programmers.co.kr/learn/courses/30/lessons/62048)|[Link](programmers/lv2/n62048.py)
 |Programmers|87390|Lv2 🥈|n^2 배열 자르기||[Link](https://programmers.co.kr/learn/courses/30/lessons/87390)|[Link](programmers/lv2/n87390.py)
 |Baekjoon|1049|Silver 🥈|기타줄||[Link](https://www.acmicpc.net/problem/1049)|[Link](baekjoon/02_silver/n1049.py)
 |Baekjoon|1105|Silver 🥈|팔||[Link](https://www.acmicpc.net/problem/1105)|[Link](baekjoon/02_silver/n1105.py)
 |Baekjoon|1541|Silver 🥈|잃어버린 괄호||[Link](https://www.acmicpc.net/problem/1541)|[Link](baekjoon/02_silver/n1541.py)
+|Baekjoon|1931|Silver 🥈|회의실 배정|Sliding Window|[Link](https://www.acmicpc.net/problem/1931)|[Link](baekjoon/02_silver/n1931.py)
 |Baekjoon|11399|Silver 🥈|ATM||[Link](https://www.acmicpc.net/problem/11399)|[Link](baekjoon/02_silver/n11399.py)
 
 ---
@@ -240,7 +243,7 @@
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Programmers|17676|Lv3 🥇|추석 트래픽|Time|[Link](https://programmers.co.kr/learn/courses/30/lessons/17676)|[Link](programmers/kakao/lv3/n17676.py)
+
 |Programmers|92344|Lv3 🥇|파괴되지 않은 건물|Prefix Sum|[Link](https://programmers.co.kr/learn/courses/30/lessons/92344)|[Link](programmers/kakao/lv3/n92344.py)
 |Programmers|92341|Lv2 🥈|주차 요금 계산|Time|[Link](https://programmers.co.kr/learn/courses/30/lessons/92341)|[Link](programmers/kakao/lv2/n92341.py)
 |Baekjoon|1074|Silver 🥈|Z|Recursion|[Link](https://www.acmicpc.net/problem/1074)|[Link](baekjoon/02_silver/n1074.py)
