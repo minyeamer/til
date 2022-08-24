@@ -122,6 +122,7 @@
 |Baekjoon|10814|Silver 🥈|나이순 정렬||[Link](https://www.acmicpc.net/problem/10814)|[Link](baekjoon/02_silver/n10814.py)
 |Baekjoon|10816|Silver 🥈|숫자 카드 2||[Link](https://www.acmicpc.net/problem/10816)|[Link](baekjoon/02_silver/n10816.py)
 |Baekjoon|11651|Silver 🥈|좌표 정렬하기 2||[Link](https://www.acmicpc.net/problem/11651)|[Link](baekjoon/02_silver/n11651.py)
+|Baekjoon|18870|Silver 🥈|좌표 압축||[Link](https://www.acmicpc.net/problem/18870)|[Link](baekjoon/02_silver/n18870.py)
 |Baekjoon|1259|Bronze 🥉|팰린드롬수||[Link](https://www.acmicpc.net/problem/1259)|[Link](baekjoon/01_bronze/n1259.py)
 |Baekjoon|2920|Bronze 🥉|음계||[Link](https://www.acmicpc.net/problem/2920)|[Link](baekjoon/01_bronze/n2920.py)
 
@@ -197,6 +198,7 @@
 |Programmers|1844|Lv2 🥈|게임 맵 최단거리|BFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/1844)|[Link](programmers/lv2/n1844.py)
 |Programmers|43165|Lv2 🥈|타겟 넘버|DFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/43165)|[Link](programmers/lv2/n43165.py)
 |Programmers|87946|Lv2 🥈|피로도|DFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/87946)|[Link](programmers/lv2/n87946.py)
+|Baekjoon|7576|Gold 🥇|토마토|BFS|[Link](https://www.acmicpc.net/problem/7576)|[Link](baekjoon/03_gold/n7576.py)
 |Baekjoon|1012|Silver 🥈|유기농 배추|DFS|[Link](https://www.acmicpc.net/problem/1012)|[Link](baekjoon/02_silver/n1012.py)
 |Baekjoon|1260|Silver 🥈|DFS와 BFS|Guidance|[Link](https://www.acmicpc.net/problem/1260)|[Link](baekjoon/02_silver/n1260.py)
 |Baekjoon|1389|Silver 🥈|케빈 베이컨의 6단계 법칙|BFS|[Link](https://www.acmicpc.net/problem/1389)|[Link](baekjoon/02_silver/n1389.py)
