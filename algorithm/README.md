@@ -198,6 +198,7 @@
 |Programmers|1844|Lv2 🥈|게임 맵 최단거리|BFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/1844)|[Link](programmers/lv2/n1844.py)
 |Programmers|43165|Lv2 🥈|타겟 넘버|DFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/43165)|[Link](programmers/lv2/n43165.py)
 |Programmers|87946|Lv2 🥈|피로도|DFS|[Link](https://programmers.co.kr/learn/courses/30/lessons/87946)|[Link](programmers/lv2/n87946.py)
+|Baekjoon|7569|Gold 🥇|토마토|BFS|[Link](https://www.acmicpc.net/problem/7569)|[Link](baekjoon/03_gold/n7569.py)
 |Baekjoon|7576|Gold 🥇|토마토|BFS|[Link](https://www.acmicpc.net/problem/7576)|[Link](baekjoon/03_gold/n7576.py)
 |Baekjoon|1012|Silver 🥈|유기농 배추|DFS|[Link](https://www.acmicpc.net/problem/1012)|[Link](baekjoon/02_silver/n1012.py)
 |Baekjoon|1260|Silver 🥈|DFS와 BFS|Guidance|[Link](https://www.acmicpc.net/problem/1260)|[Link](baekjoon/02_silver/n1260.py)
