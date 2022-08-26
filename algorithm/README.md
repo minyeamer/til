@@ -251,6 +251,7 @@
 |Programmers|92344|Lv3 🥇|파괴되지 않은 건물|Prefix Sum|[Link](https://programmers.co.kr/learn/courses/30/lessons/92344)|[Link](programmers/kakao/lv3/n92344.py)
 |Programmers|92341|Lv2 🥈|주차 요금 계산|Time|[Link](https://programmers.co.kr/learn/courses/30/lessons/92341)|[Link](programmers/kakao/lv2/n92341.py)
 |Baekjoon|1074|Silver 🥈|Z|Recursion|[Link](https://www.acmicpc.net/problem/1074)|[Link](baekjoon/02_silver/n1074.py)
+|Baekjoon|1308|Silver 🥈|D-Day|Time|[Link](https://www.acmicpc.net/problem/1308)|[Link](baekjoon/02_silver/n1308.py)
 |Baekjoon|21318|Silver 🥈|피아노 체조|Prefix Sum|[Link](https://www.acmicpc.net/problem/21318)|[Link](baekjoon/02_silver/n21318.py)
 
 ---
