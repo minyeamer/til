@@ -5,6 +5,8 @@ date: 2022-03-20 18:12:00 +0900
 categories: [Algorithm]
 tags: [Algorithm, Problem Solving, Python, Big-O]
 slug: big-o-list
+cover:
+  image: minystory.png
 ---
 
 ## List
