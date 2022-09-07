@@ -6,7 +6,7 @@ categories: [Study, AI SCHOOL]
 tags: [AI SCHOOL, 멋쟁이사자처럼, 코드라이언, Text Analysis]
 slug: aischool-02-01-processing-text-data
 cover:
-  image: https://github.com/minyeamer/til/blob/main/.media/activities/ai-school/cover.png?raw=true
+  image: ai-school.png
 ---
 
 # NLTK Library

@@ -6,7 +6,7 @@ categories: [Study, AI SCHOOL]
 tags: [AI SCHOOL, 멋쟁이사자처럼, 코드라이언, Python]
 slug: ai-school-00-00-start
 cover:
-  image: https://github.com/minyeamer/til/blob/main/.media/activities/ai-school/cover.png?raw=true
+  image: ai-school.png
 ---
 
 # AI SCHOOL 지원 과정

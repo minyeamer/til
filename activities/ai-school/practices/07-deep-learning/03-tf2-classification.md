@@ -7,7 +7,7 @@ tags: [AI SCHOOL, 멋쟁이사자처럼, 코드라이언, Deep Learning, TensorF
 slug: aischool-07-03-tf2-classification
 draft: true
 cover:
-  image: https://github.com/minyeamer/til/blob/main/.media/activities/ai-school/cover.png?raw=true
+  image: ai-school.png
 ---
 
 > Keras 모델 생성 방법

@@ -6,7 +6,7 @@ categories: [Study, AI SCHOOL]
 tags: [AI SCHOOL, 멋쟁이사자처럼, 코드라이언, Web Crawling, Selenium]
 slug: aischool-03-04-web-crawling
 cover:
-  image: https://github.com/minyeamer/til/blob/main/.media/activities/ai-school/cover.png?raw=true
+  image: ai-school.png
 ---
 
 # Wadis 마감 상품 재고 체크

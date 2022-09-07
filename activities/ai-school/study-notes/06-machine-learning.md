@@ -6,7 +6,7 @@ categories: [Study, AI SCHOOL]
 tags: [AI SCHOOL, 멋쟁이사자처럼, 코드라이언, Machine Learning]
 slug: aischool-06-00-machine-learning
 cover:
-  image: https://github.com/minyeamer/til/blob/main/.media/activities/ai-school/cover.png?raw=true
+  image: ai-school.png
 ---
 
 # 인공지능

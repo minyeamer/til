@@ -6,7 +6,7 @@ categories: [Diary]
 tags: [Jekyll, Chirpy, Github, Github Pages]
 slug: jekyll-blog
 cover:
-  image: https://github.com/minyeamer/til/blob/main/.media/activities/blog/jekyll-blog/jekyll-logo.png?raw=true
+  image: jekyll-logo.png
 ---
 
 블로그를 처음 시작함에 있어서 모든 것이 준비된 호스팅 서비스의 편의성은 무시할 수 없습니다.   
