@@ -121,7 +121,7 @@ ax.scatter(X[:, 3], X[:, 0], X[:, 2], c=y, edgecolor='w', s=100)
 plt.show()
 ```
 
-<div style="display:flex; justify-content:center;">
+<div align="center">
 <img src="https://github.com/minyeamer/til/blob/main/.media/activities/ai-school/06-machine-learning/06-k-means/kmeans-4.png?raw=true" style="max-width:500px">
 </div>
 
