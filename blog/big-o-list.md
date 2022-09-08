@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Big-O
+title: Big-O List
 date: 2022-03-20 18:12:00 +0900
-categories: [Algorithm]
+categories: [Algorithm, References]
 tags: [Algorithm, Problem Solving, Python, Big-O]
-slug: big-o-list
 cover:
   image: minystory.png
 ---

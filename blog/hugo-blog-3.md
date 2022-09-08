@@ -4,7 +4,6 @@ title: Hugo 블로그 만들기 (3) - 테마 커스터마이징
 date: 2022-09-08 15:52:12 +0900
 categories: [Blog, Tech]
 tags: [Hugo, PaperMod, Github, Github Pages, Go Template, KaTex, 검색 엔진]
-slug: hugo-blog-3
 cover:
   image: hugo-logo.png
 ---

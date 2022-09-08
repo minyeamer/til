@@ -4,7 +4,6 @@ title: 깃허브 블로그 시작하기
 date: 2022-08-30 16:28:43 +0900
 categories: [Blog, Tech]
 tags: [Jekyll, Chirpy, Github, Github Pages]
-slug: jekyll-blog
 cover:
   image: jekyll-logo.png
 ---

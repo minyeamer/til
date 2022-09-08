@@ -4,7 +4,6 @@ title: Hugo 블로그 만들기 (2) - Utterances 댓글 적용
 date: 2022-09-08 14:39:22 +0900
 categories: [Blog, Tech]
 tags: [Hugo, PaperMod, Github, Github Pages, Utterances]
-slug: hugo-blog-2
 cover:
   image: hugo-logo.png
 ---

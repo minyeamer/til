@@ -4,7 +4,6 @@ title: Hugo 블로그 만들기 (1) - Hugo 기본 구성
 date: 2022-09-08 12:02:32 +0900
 categories: [Blog, Tech]
 tags: [Hugo, PaperMod, Github, Github Pages, Submodule]
-slug: hugo-blog-1
 cover:
   image: hugo-logo.png
 ---

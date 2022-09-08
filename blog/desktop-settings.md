@@ -2,9 +2,8 @@
 layout: post
 title: 가벼운 딥러닝용 조립PC 후기
 date: 2022-09-01 19:58:46 +0900
-categories: [Blog, Diary]
+categories: [Blog, Review]
 tags: [Desktop, i5-12600K, RTX 3060, Fractal Design, 컴퓨존]
-slug: desktop-settings
 cover:
   image: minystory.jpg
 ---
