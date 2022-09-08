@@ -35,3 +35,7 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+<div style="display:flex; justify-content:center;">
+<img src="https://github.com/minyeamer/til/blob/main/.media/*.png?raw=true" style="max-width:500px">
+</div>
