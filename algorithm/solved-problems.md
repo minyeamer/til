@@ -4,7 +4,7 @@ title: "[Index] Solved Problems"
 date: 2022-03-22 00:00:00 +0900
 categories: [Algorithm]
 tags: [Algorithm, Problem Solving, Python, Index]
-slug: algorithm-index
+slug: solved-problems
 cover:
   image: minystory.png
 ---
