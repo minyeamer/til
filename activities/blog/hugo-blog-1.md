@@ -84,8 +84,7 @@ Hugo는 원본 데이터 및 설정 파일이 포함될 공간과, 렌더링된 
 포스트를 위한 `content/`, 이미지 등을 위한 `static/` 디렉토리 외엔 거의 사용하지 않습니다.
 
 ```bash
-% tree blog
-blog
+.
 ├── archetypes
 │   └── default.md
 ├── config.toml
@@ -154,6 +153,34 @@ git remote add upstream https://github.com/adityatelange/hugo-PaperMod
 git fetch upstream
 git merge upstream/master
 git commit -m "update: pull upstream"
+```
+
+아래는 PaperMod 테마의 디렉토리 구조입니다.   
+테마를 수정할 일이 있다면 아래 구조를 참고해 필요한 파일에 접근해 볼 수 있습니다.
+
+```bash
+themes/PaperMod
+├── LICENSE
+├── README.md
+├── assets
+│   ├── css
+│   │   ├── common
+│   │   ├── core
+│   │   ├── extended
+│   │   ├── hljs
+│   │   └── includes
+│   └── js
+├── go.mod
+├── i18n
+├── images
+├── layouts
+│   ├── 404.html
+│   ├── _default
+│   │   └── _markup
+│   ├── partials
+│   ├── robots.txt
+│   └── shortcodes
+└── theme.toml
 ```
 
 ## Hugo 설정
