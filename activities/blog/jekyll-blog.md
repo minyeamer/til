@@ -2,7 +2,7 @@
 layout: post
 title: 깃허브 블로그 시작하기
 date: 2022-08-30 16:28:43 +0900
-categories: [Diary]
+categories: [Blog, Tech]
 tags: [Jekyll, Chirpy, Github, Github Pages]
 slug: jekyll-blog
 cover:
@@ -22,6 +22,8 @@ cover:
 TIL 저장소 자체를 블로그 포스트 저장소로도 활용할 수 있을 것이라 기대합니다.
 
 블로그를 개설하고 처음 작성하는 이번 포스트에서는 깃허브 블로그를 만든 과정을 소개해드리겠습니다.
+
+---
 
 # 테마 선택 및 가져오기
 
@@ -123,12 +125,9 @@ VS Code 또는 기타 웹 편집기를 활용하면 마크다운 작성 내용�
 # 마치며
 
 과거 깃허브 블로그를 만들려고 했을 때는 Jekyll을 직접 다뤄야 해서 쉽게 접근하지 못했는데,   
-이제는 그럴 필요 없이 완성된 패키지를 가져다 쓸 수 있게 되어서 많이 편해졌다고 생각합니다.   
-다음은 깃허브 블로그를 검색 엔진에 등록하는 것에 대해 알아보겠습니다.
+이제는 그럴 필요 없이 완성된 패키지를 가져다 쓸 수 있게 되어서 많이 편해졌다고 생각합니다.
 
----
-
-# 참고 자료
+## 참고 자료
 
 - [Chirpy Documents](https://chirpy.cotes.page/)
 - [깃헙(GitHub) 블로그 10분안에 완성하기](https://youtu.be/ACzFIAOsfpM)
