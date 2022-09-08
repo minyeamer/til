@@ -31,7 +31,7 @@ Utterances 설치는 단순히 레이아웃 상에서 댓글이 위치할 곳에
 모든 저장소를 지정해도 되지만, 저는 댓글을 관리할 저장소만 지정하겠습니다.
 
 <div style="display:flex; justify-content:center;">
-<img src="https://github.com/minyeamer/til/blob/main/.media/activities/blog/hugo-blog/utterances-2.png?raw=true" style="max-width:500px">
+<img src="https://github.com/minyeamer/til/blob/main/.media/activities/blog/hugo-blog/utterances-2.png?raw=true" style="max-width:550px">
 </div>
 
 간단하게 Utterances 적용이 완료되면 아래 공식 문서 페이지로 이동합니다.
