@@ -250,7 +250,7 @@
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Leetcode|236|Medium 🥈|Lowest Common Ancestor of a Binary Tree||[Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Link](leetcode/02-medium/n236.md)|
+|Leetcode|236|Medium 🥈|Lowest Common Ancestor<br>of a Binary Tree||[Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Link](leetcode/02-medium/n236.md)|
 |Programmers|92344|Lv3 🥇|파괴되지 않은 건물|Prefix Sum|[Link](https://programmers.co.kr/learn/courses/30/lessons/92344)|[Link](programmers/kakao/lv3/n92344.py)|
 |Programmers|92341|Lv2 🥈|주차 요금 계산|Time|[Link](https://programmers.co.kr/learn/courses/30/lessons/92341)|[Link](programmers/kakao/lv2/n92341.py)|
 |Baekjoon|21758|Gold 🥇|꿀 따기|Prefix Sum|[Link](https://www.acmicpc.net/problem/21758)|[Link](baekjoon/03-gold/n21758.md)|
