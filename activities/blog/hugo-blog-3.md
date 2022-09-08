@@ -204,6 +204,8 @@ params:
 
 # 기타 설정
 
+## 너비 설정
+
 초기에 PaperMod 테마를 사용할 때 너비가 좁아 불편한 느낌이 있었습니다.   
 해당 설정은 css 파일로 지정할 것이라 생각했고,   
 `assets/css/core/` 경로에 있는 `theme-vars.css` 파일을 발견해 다음과 같이 수정했습니다.   
@@ -214,6 +216,8 @@ params:
     --main-width: 900px;
 ```
 
+## 새 탭에서 링크 열기
+
 다음으로 관심을 가진 건 깃허브에서 매번 불편하게 생각했던 링크 오픈 방식인데,   
 개인적으로는 현재 탭이 아닌 새 탭에서 열리는 방식을 선호하기 때문에 해당 부분의 수정이 필요했습니다.   
 다행히 Hugo 이슈 내용 중 [다음과 같은 답변](https://discourse.gohugo.io/t/simple-way-to-open-in-a-new-tab/28677/5)을 참고해 파일을 추가했습니다.   
@@ -222,6 +226,8 @@ params:
 ```html
 <a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
 ```
+
+## 포스트 수정
 
 마지막으로 포스트 수정 버튼에 문제를 인식했습니다.   
 물론, 모든 포스트는 로컬에서 작성하고 수정하지만, 오류가 발생하는 버튼을 그냥 놔둘 수는 없습니다.   
