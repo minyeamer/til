@@ -6,13 +6,13 @@ categories: [Blog, Diary]
 tags: [Desktop, i5-12600K, RTX 3060, Fractal Design, 컴퓨존]
 slug: desktop-settings
 cover:
-  image: minystory.png
+  image: minystory.jpg
 ---
 
 # 구매 계기
 
 매번 딥러닝 모델을 학습하는 실험을 하면서 Colab에 의존하는 방식에 불편함을 느꼈는데,   
-결국 190발 사용해서 RTX 3060이 포함된 조립 PC를 구매했습니다.
+결국 190발을 사용해서 RTX 3060이 포함된 조립 PC를 구매했습니다.
 
 이번 기회에 혼자서 컴퓨터를 조립해봤으면 좋았겠지만,   
 여기에 많은 시간을 쏟을만한 상황도 아니었고 이쪽이 고장날 일도 없어서 맡겼습니다.
@@ -27,7 +27,7 @@ cover:
 처음엔 약 100만원을 얹어서 RTX 3090Ti을 구매할 생각이었지만,   
 당시 소득이 없는 상황이라 저렴한 가격의 RTX 3060을 구매했습니다.   
 Colab에서 RoBERTa 등의 모델을 돌리면서 15GB의 VRAM이 고갈되어 배치 사이즈를 줄인 경험이 있어   
-상대적으로 적은 12GB VRAM의 RTX 3060 제품이 불안하긴 했습니다.
+상대적으로 적은 12GB VRAM의 RTX 3060 제품이 불안하긴 했습니다.   
 하지만, 당장엔 큰 모델을 돌릴 예정이 없고 그래픽 카드를 교체하는게 어렵지는 않기 때문에   
 향후 확장성을 고려하는 방향으로 저사양의 제품을 구매했습니다.
 
@@ -61,11 +61,11 @@ WiFi 보드, 강화유리가 없는 케이스를 필수 요건으로 삼아
 컴퓨존에 견적 신청을 한 후 당일날 조립이 완료되었다는 답변을 받았습니다.   
 용산에서 택배가 발송되고 다음날 아래와 같은 사진을 전달받았습니다.
 
-![compuzone-1](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/compuzone-1.png?raw=true)
+![compuzone-1](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/compuzone-1.jpg?raw=true)
 
 |||
 |:-:|:-:|
-|![compuzone-2](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/compuzone-2.png?raw=true)|![compuzone-3](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/compuzone-3.png?raw=true)|
+|![compuzone-2](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/compuzone-2.jpg?raw=true)|![compuzone-3](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/compuzone-3.jpg?raw=true)|
 
 제품 배송도 주문 후 하루 내지 이틀 사이에 도착한 것으로 기억합니다.   
 컴퓨터 자체도 스티로폼이랑 완충재로 단단히 감싸져 있어 배송 상태에 만족했습니다.
@@ -77,17 +77,17 @@ WiFi 보드, 강화유리가 없는 케이스를 필수 요건으로 삼아
 
 |||
 |:-:|:-:|
-|![desktop-1](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/desktop-1.png?raw=true)|![desktop-2](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/desktop-2.png?raw=true)|
+|![desktop-1](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/desktop-1.jpg?raw=true)|![desktop-2](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/desktop-2.jpg?raw=true)|
 
 완충재를 걷어내니 그래픽 카드의 아름다운 자태가 눈에 들어왔습니다.   
 개인적으로 RGB를 선호하지는 않기 때문에 제품 그 자체를 보는 것만으로 행복감을 느꼈습니다.
 
-![desktop-3](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/desktop-3.png?raw=true)
+![desktop-3](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/desktop-3.jpg?raw=true)
 
 케이스도 개인 취향에 살짝 비싼 제품을 구매했는데 이렇게 다시 보니 잘 샀다고 생각합니다.   
 특히 케이스 정면의 Y자 형태의 디자인이 매력적입니다.
 
-![desktop-4](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/desktop-4.png?raw=true)
+![desktop-4](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/desktop-4.jpg?raw=true)
 
 별도의 수작업 없이 바로 컴퓨터를 실행시켰는데 한가지 아쉬웠던 점은 쿨러 소리가 너무 시끄러웠던 것입니다.   
 특별히 불량이 있는 것은 아니고 단순히 쿨러의 RPM이 높게 느껴졌던 건데   
@@ -99,7 +99,7 @@ WiFi 보드, 강화유리가 없는 케이스를 필수 요건으로 삼아
 팬 허브의 PWM 포트가 메인보드가 아닌, 동일 허브의 FAN4 포트에 연결되어 있었습니다.   
 황당하긴 하지만 정상적으로 연결 후 조용히 돌아가는 모습을 보니 만족했습니다.
 
-![fan-hub](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/fan-hub.png?raw=true)
+![fan-hub](https://github.com/minyeamer/til/blob/main/.media/activities/blog/desktop-settings/fan-hub.jpg?raw=true)
 
 현재는 우분투를 탑재해 장남감으로서 재밌게 가지고 놀고 있습니다.   
 M1 맥북을 유일한 PC로 사용하면서 가끔씩 호환성에 불편함을 느꼈었는데   
