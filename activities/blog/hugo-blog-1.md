@@ -158,6 +158,31 @@ git commit -m "update: pull upstream"
 아래는 PaperMod 테마의 디렉토리 구조입니다.   
 테마를 수정할 일이 있다면 아래 구조를 참고해 필요한 파일에 접근해 볼 수 있습니다.
 
+```bash
+themes/PaperMod
+├── LICENSE
+├── README.md
+├── assets
+│   ├── css
+│   │   ├── common
+│   │   ├── core
+│   │   ├── extended
+│   │   ├── hljs
+│   │   └── includes
+│   └── js
+├── go.mod
+├── i18n
+├── images
+├── layouts
+│   ├── 404.html
+│   ├── _default
+│   │   └── _markup
+│   ├── partials
+│   ├── robots.txt
+│   └── shortcodes
+└── theme.toml
+```
+
 ## Hugo 설정
 
 Hugo 블로그 설정은 `config` 파일에서 지정할 수 있고, `toml`, `yaml`, `json` 형식을 지원합니다.   
