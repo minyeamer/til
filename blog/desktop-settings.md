@@ -5,7 +5,7 @@ date: 2022-09-01 19:58:46 +0900
 categories: [Blog, Review]
 tags: [Desktop, i5-12600K, RTX 3060, Fractal Design, 컴퓨존]
 cover:
-  image: minystory.jpg
+  image: minystory.png
 ---
 
 # 구매 계기
