@@ -103,7 +103,7 @@ cover:
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Leetcode|1337|Easy 🥉|The K Weakest Rows in a Matrix||[Link](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Link](https://minyeamer.github.io/blog/leetcode-problems-1337/)|
+|Leetcode|1337|Easy 🥉|The K Weakest Rows<br>in a Matrix||[Link](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Link](https://minyeamer.github.io/blog/leetcode-problems-1337/)|
 |Programmers|17686|Lv2 🥈|파일명 정렬||[Link](https://programmers.co.kr/learn/courses/30/lessons/17686)|[Link](https://minyeamer.github.io/blog/programmers-problems-17686/)|
 |Programmers|42746|Lv2 🥈|가장 큰 수||[Link](https://programmers.co.kr/learn/courses/30/lessons/42746)|[Link](programmers/lv2/n42746.py)|
 |Programmers|42747|Lv2 🥈|H-Index||[Link](https://programmers.co.kr/learn/courses/30/lessons/42747)|[Link](programmers/lv2/n42747.py)|
@@ -232,7 +232,7 @@ cover:
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-||||||[Link]()|[Link]()|
+|Leetcode|236|Medium 🥈|Lowest Common Ancestor<br>of a Binary Tree||[Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Link](https://minyeamer.github.io/blog/leetcode-problems-236/)|
 
 ---
 
@@ -240,7 +240,6 @@ cover:
 
 |Reference|Number|Level|Problem Name|Subcategory|Problem Link|Solution Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Leetcode|236|Medium 🥈|Lowest Common Ancestor of a Binary Tree||[Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Link](https://minyeamer.github.io/blog/leetcode-problems-236/)|
 |Programmers|92344|Lv3 🥇|파괴되지 않은 건물|Prefix Sum|[Link](https://programmers.co.kr/learn/courses/30/lessons/92344)|[Link](programmers/kakao/lv3/n92344.py)|
 |Programmers|92341|Lv2 🥈|주차 요금 계산|Time|[Link](https://programmers.co.kr/learn/courses/30/lessons/92341)|[Link](programmers/kakao/lv2/n92341.py)|
 |Baekjoon|21758|Gold 🥇|꿀 따기|Prefix Sum|[Link](https://www.acmicpc.net/problem/21758)|[Link](https://minyeamer.github.io/blog/boj-problems-21758/)|
