@@ -27,7 +27,7 @@
 |Baekjoon|[https://www.acmicpc.net/](https://www.acmicpc.net/)|
 |solved.ac|[https://solved.ac/](https://solved.ac/)|
 |HackerRank|[https://www.hackerrank.com/domains/sql](https://www.hackerrank.com/domains/sql)|
-|Big-O List|[minyeamer/references/big-o.md](https://github.com/minyeamer/minyeamer/blob/main/references/big-o.md)|
+|Big-O List|[minyeamer/references/big-o.md](https://github.com/minyeamer/til/blob/main/blog/big-o-list.md)|
 
 <!-- Medals  -->
 <!-- 🥇 🥈 🥉 -->

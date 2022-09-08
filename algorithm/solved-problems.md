@@ -17,7 +17,7 @@ cover:
 |Programmers|[https://school.programmers.co.kr/learn/challenges](https://school.programmers.co.kr/learn/challenges)|
 |Baekjoon|[https://www.acmicpc.net/](https://www.acmicpc.net/)|
 |solved.ac|[https://solved.ac/](https://solved.ac/)|
-|Big-O List|[minyeamer/references/big-o.md](https://github.com/minyeamer/minyeamer/blob/main/references/big-o.md)|
+|Big-O List|[minyeamer/references/big-o.md](https://minyeamer.github.io/blog/big-o-list/)|
 
 <!-- Medals  -->
 <!-- 🥇 🥈 🥉 -->
