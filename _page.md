@@ -37,7 +37,7 @@ editPost:
 ---
 
 <!--
-<div style="display:flex; justify-content:center;">
-<img src="https://github.com/minyeamer/til/blob/main/.media/.png?raw=true" style="max-width:500px">
+<div align="center">
+<img src="https://github.com/minyeamer/til/blob/main/.media/.png?raw=true" style="max-width:700px">
 </div>
 -->
