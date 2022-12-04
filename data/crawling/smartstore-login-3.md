@@ -290,6 +290,7 @@ class SmartstoreLogin(NaverLogin):
 `SmartstoreLogin` 객체를 사용할 때는 `login()` 메소드를 활용합니다.
 
 ```python
+class SmartstoreLogin(NaverLogin):
     def login(self):
         email_pattern = re.compile("[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+")
         self.seller_login() if email_pattern.search(self.userid) else self.oauth_login()
