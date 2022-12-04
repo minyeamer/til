@@ -48,7 +48,7 @@ cookies = {
 네이버 로그인 페이지에서 로그인을 수행하는 과정에서   
 발견할 수 있는 POST 요청을 살펴보면 다음과 같은 데이터가 전달됨을 발견할 수 있습니다.
 
-![nid-login](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/nid-login.png)
+![nid-login](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/nid-login.png?raw=true)
 
 암호화된 값을 생략하고 키로 전달되는 내용을 확인하면 다음과 같습니다.
 
@@ -80,7 +80,7 @@ cookies = {
 키의 명칭만으로는 무엇을 의미하는지 알 수 없기 때문에   
 로그인 페이지 소스에서 키명칭을 검색하였고 네이버 로그인 폼에서 하나의 단서를 찾을 수 있었습니다.
 
-![nid-form](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/nid-form.png)
+![nid-form](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/nid-form.png?raw=true)
 
 `dynamicKey`의 경우 로그인 폼에 동적으로 부여되는 값임을 알 수 있습니다.   
 하지만 나머지 `encpw`, `bvsd`, `encnm`의 값은 비어있기 때문에   
@@ -92,7 +92,7 @@ cookies = {
 `common_202201.js` 내부에서 RSA 암호화 처리를 통해 값을 생성함을 알 수 있습니다.   
 그 중에서 가장 처음 단계로 실행될 것이라 추측되는 것이 아래 `confirmSubmit()` 함수입니다.
 
-![encpw](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/encpw.png)
+![encpw](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/encpw.png?raw=true)
 
 해당 함수는 아이디와 비밀번호의 여부를 체크하고 `encryptIdPw()` 함수의 결과를 반환합니다.   
 바로 밑에서 확인할 수 있는 `encryptIdPw()` 함수의 내용은 다음과 같습니다.
@@ -135,12 +135,12 @@ function encryptIdPw() {
 마찬가지로 해당 명칭을 검색했을 때   
 `session_keys`는 Ajax 통신의 응답 결과를 받아오는 것을 확인할 수 있습니다.
 
-![session-keys](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/session-keys.png)
+![session-keys](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/session-keys.png?raw=true)
 
 하지만 네이버 로그인 페이지에서 `svctype=262144`를 추가적인 파라미터로 입력할 경우   
 접근할 수 있는 모바일 로그인 페이지에서 해당 값을 확인할 수 있었습니다.
 
-![nid-mlogin](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/nid-mlogin.png)
+![nid-mlogin](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/nid-mlogin.png?raw=true)
 
 다시 `encryptIdPw()` 함수로 돌아가서 `session_keys`를 처리하기 위해   
 `keySplit()` 함수를 찾아보았습니다.
@@ -203,7 +203,7 @@ encpw = rsa.encrypt(value.encode(), publicKey).hex()
 `bvsd.1.3.8.min.js`에서 주목할 부분은 `uuid` 및 `encData`를 생성하는 부분인데   
 아래 코드에서 `encData`는 `o`라는 값을 인코딩하는 것으로 추측됩니다.
 
-![bvsd](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/bvsd.png)
+![bvsd](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/bvsd.png?raw=true)
 
 `o` 값을 코드 내에서 찾아보니 아래와 같이 디바이스의 마우스 상태 등을   
 기록한 값임을 확인할 수 있었습니다.
@@ -359,7 +359,7 @@ naver.get_cookies()
 
 또한 해당 결과는 개발자 도구에서도 응답 헤더의 `set-cookie` 값에서 찾아볼 수 있습니다.   
 
-![nid-cookies](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/nid-cookies.png)
+![nid-cookies](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/nid-cookies.png?raw=true)
 
 지금까지의 과정으로 네이버 로그인 과정을 거쳤을 때,   
 게시글의 서두에서 언급한 쿠키 값의 목록 중에서 일부 값을 획득할 수 있습니다.

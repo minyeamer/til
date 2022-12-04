@@ -31,7 +31,7 @@ tags: [Crawling, Python, requests, Naver, 네이버, 스마트스토어, 스마�
 네이버 쇼핑에서 표시되는 상품의 순위는 검색인기도를 기준으로 결정됩니다.   
 키워드별 상위권 상품의 검색인기도를 가져오는 것을 예시로 데이터 수집을 진행해보겠습니다.
 
-![popularity-ui](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/popularity-ui.png)
+![popularity-ui](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/popularity-ui.png?raw=true)
 
 위 이미지에서 왼쪽 부분은 실제 UI, 오른쪽 부분은 HTML 소스 입니다.   
 해당 소스에서 데이터를 가져온다면 `div.popularity-product > div.box-border` 위치에서   
@@ -43,7 +43,7 @@ tags: [Crawling, Python, requests, Naver, 네이버, 스마트스토어, 스마�
 하지만 네이버의 대부분의 웹페이지는 API를 기반으로 가져온 데이터로 구성되기 때문에   
 해당 API를 활용할 수 있다면 더욱 효율적인 데이터 수집이 가능합니다.
 
-![popularity-json](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/popularity-json.png)
+![popularity-json](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/popularity-json.png?raw=true)
 
 서버에서 가져오는 데이터를 확인할 때는 주로 개발자 도구의 네트워크 탭을 활용합니다.   
 웹페이지 로드 시 가져오는 문서를 확인하다보면 위 이미지와 같이 목표로 하는 데이터를 보내주는 API를 발견할 수 있습니다.
@@ -69,7 +69,7 @@ tags: [Crawling, Python, requests, Naver, 네이버, 스마트스토어, 스마�
 개발자 도구 네트워크 탭에서 하나의 문서를 클릭하고 Headers 탭에서 스크롤을 내리면   
 아래와 같은 Request Headers 정보를 확인할 수 있습니다.
 
-![headers](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/headers.png)
+![headers](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/headers.png?raw=true)
 
 서버와 클라이언트 간 네트워크 요청 시 서버는 클라이언트의 정보를 확인할 목적으로   
 클라이언트에 쿠키라는 암호화된 인증 정보를 남깁니다.   
@@ -118,7 +118,7 @@ response = requests.get(url, headers=headers)
 
 |||
 |:-:|:-:|
-|![smartstore-ui](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/smartstore-ui.png)|![login-ui](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/login-ui.png)|
+|![smartstore-ui](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/smartstore-ui.png?raw=true)|![login-ui](https://github.com/minyeamer/til/blob/main/.media/data/crawling/smartstore-login/login-ui.png?raw=true)|
 
 메인 페이지에서 로그인하기 버튼을 클릭했을 때 이동하는 로그인 페이지에서 실제 로그인이 이루어집니다.   
 스마트스토어센터 로그인에는 판매자 아이디로 로그인하는 방식과   
