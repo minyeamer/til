@@ -242,6 +242,17 @@ class SmartstoreLogin(NaverLogin):
 ```
 
 ```python
+OAUTH_DATA = lambda code, state: str({
+    "operationName":"snsLoginCallback",
+    "variables": {
+        "code": code,
+        "state": state},
+    "query":"mutation snsLoginCallback($code: String!, $state: String!) \
+{\n  snsCallback(snsLoginCallbackRequest: {code: $code, state: $state}) \
+{\n    statCd\n    loginStatus\n    nextUrl\n    sessionKey\n    snsCd\n    \
+idNo\n    realnm\n    age\n    email\n    __typename\n  }\n}\n"
+}).replace('\'','\"')
+
 class SmartstoreLogin(NaverLogin):
     def oauth_login(self):
         self.nid_login()
@@ -261,6 +272,8 @@ class SmartstoreLogin(NaverLogin):
 
 ```python
 TWOLOGIN_URL = SMARTSTORE_URL+"api/login?url=https%3A%2F%2Fsell.smartstore.naver.com%2F%23%2Fhome%2Fdashboard"
+
+TWOLOGIN_DATA = {"url": "https://sell.smartstore.naver.com/#/home/dashboard"}
 
 class SmartstoreLogin(NaverLogin):
     def two_factor_login(self):
