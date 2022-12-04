@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Python] requests로 네이버 스마트스토어센터 로그인 구현하기 (3)
+title: "[Python] requests로 네이버 스마트스토어센터 로그인 구현하기 (3)"
 date: 2022-12-04 10:22:03 +0900
 categories: [Data, Crawling]
 tags: [Crawling, Python, requests, Naver, 네이버, 스마트스토어, 스마트스토어센터, 로그인, 크롤링]
